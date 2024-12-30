@@ -1,0 +1,1001 @@
+property_id,property_title,rating,review,description
+1,Eamia,60,"Excision of Right Elbow Bursa and Ligament, Percutaneous Approach, Diagnostic","Injury of cauda equina, initial encounter"
+2,Dabfeed,99,Plaque Radiation of Leg Skin,Other fracture of upper end of radius
+3,Yombu,94,"Dilation of Celiac Artery, Percutaneous Approach","Pressure ulcer of unspecified elbow, unstageable"
+4,Innotype,89,"Revision of Synthetic Substitute in Face, Open Approach",Nocardiosis
+5,Youbridge,56,"Removal of Drainage Device from Right Sacroiliac Joint, Open Approach","Driver of heavy transport vehicle injured in collision with pedestrian or animal in nontraffic accident, initial encounter"
+6,Rhybox,57,"Bypass Left Femoral Artery to Posterior Tibial Artery, Percutaneous Endoscopic Approach","Other fracture of left ilium, subsequent encounter for fracture with delayed healing"
+7,Teklist,15,"Occlusion of Left Upper Lobe Bronchus with Intraluminal Device, Percutaneous Endoscopic Approach","Dislocation of T7/T8 thoracic vertebra, subsequent encounter"
+8,Twitterworks,40,"Extirpation of Matter from Ascending Colon, Via Natural or Artificial Opening Endoscopic","Open bite of left ear, sequela"
+9,Topiczoom,85,"Release Trochlear Nerve, Percutaneous Approach","Displaced fracture of lower epiphysis (separation) of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+10,Babbleblab,23,"Revision of Drainage Device in Lower Back, Percutaneous Endoscopic Approach",Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+11,Thoughtmix,56,"Revision of Internal Fixation Device in Left Tarsal, Percutaneous Endoscopic Approach","Other intraarticular fracture of lower end of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+12,Dynabox,83,"Bypass Left External Iliac Artery to Left External Iliac Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach","Toxic effect of unspecified substance, intentional self-harm, initial encounter"
+13,Twinder,25,"Occlusion of Left Pulmonary Vein with Extraluminal Device, Percutaneous Endoscopic Approach","Displaced fracture of proximal phalanx of unspecified great toe, subsequent encounter for fracture with delayed healing"
+14,Trupe,79,"Excision of Right Epididymis, Percutaneous Approach, Diagnostic","Systemic lupus erythematosus, organ or system involvement unspecified"
+15,Feedfire,13,"Dilation of Intracranial Artery, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach",Unspecified car occupant injured in collision with unspecified motor vehicles in nontraffic accident
+16,Oodoo,2,"Fusion of Right Knee Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach","Retinopathy of prematurity, unspecified, unspecified eye"
+17,Yodoo,90,"Drainage of Prostate with Drainage Device, Percutaneous Endoscopic Approach","Unspecified subluxation of unspecified wrist and hand, sequela"
+18,Flashdog,32,"Insertion of Internal Fixation Device into Right Hip Joint, Percutaneous Approach","Laceration without foreign body, left lower leg, initial encounter"
+19,Yozio,87,"Dilation of Coronary Artery, One Artery with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach","Complete traumatic amputation of left great toe, initial encounter"
+20,Eidel,56,"Removal of Autologous Tissue Substitute from Left Femoral Shaft, Percutaneous Approach","Displaced segmental fracture of shaft of ulna, left arm"
+21,Flashspan,100,"Insertion of Infusion Device into Colic Vein, Open Approach","Osteochondritis dissecans, unspecified knee"
+22,Edgewire,9,"Insertion of Intracardiac Pacemaker into Left Atrium, Percutaneous Approach",Laceration with foreign body of right elbow
+23,Youbridge,66,"Release Head Lymphatic, Percutaneous Endoscopic Approach",Plasmodium vivax malaria without complication
+24,Livefish,3,"Dilation of Upper Artery with Two Intraluminal Devices, Percutaneous Endoscopic Approach",Minor contusion of right kidney
+25,Feedbug,83,"Destruction of Coccygeal Glomus, Open Approach","Burn of first degree of unspecified site of right lower limb, except ankle and foot, initial encounter"
+26,Leexo,33,"Replacement of Left Upper Arm Subcutaneous Tissue and Fascia with Synthetic Substitute, Percutaneous Approach",Congenital hypertrophic pyloric stenosis
+27,Dynabox,65,"Replacement of Middle Colic Artery with Synthetic Substitute, Open Approach",Central cord syndrome at C4 level of cervical spinal cord
+28,BlogXS,58,"Supplement Left Inguinal Lymphatic with Autologous Tissue Substitute, Open Approach","Other secondary scoliosis, cervical region"
+29,Zoomzone,77,"Dilation of Ascending Colon with Intraluminal Device, Percutaneous Endoscopic Approach",Mydriasis
+30,DabZ,94,"Heart and Great Vessels, Insertion","Triplet pregnancy with two or more monochorionic fetuses, unspecified trimester"
+31,Devbug,76,Sensory Aids Assessment using Audiometer,"Insect bite (nonvenomous) of unspecified shoulder, sequela"
+32,Jabbertype,18,"Supplement Right Common Iliac Vein with Nonautologous Tissue Substitute, Percutaneous Approach","Burn of unspecified degree of multiple sites of lower limb, except ankle and foot"
+33,Skiba,76,"Control Bleeding in Left Knee Region, Percutaneous Approach",Ataxia following cerebral infarction
+34,Jayo,30,"Insertion of Other Device into Left Pleural Cavity, Percutaneous Endoscopic Approach","Intentional self-harm by drowning and submersion while in swimming pool, sequela"
+35,Wikido,89,"Fusion of Cervicothoracic Vertebral Joint with Interbody Fusion Device, Posterior Approach, Anterior Column, Open Approach",Arthropathy in hypersensitivity reactions classified elsewhere
+36,Edgeify,54,"Insertion of Internal Fixation Device into Right Metatarsal-Phalangeal Joint, Percutaneous Approach","Strain of flexor muscle, fascia and tendon of left index finger at forearm level, subsequent encounter"
+37,Tagcat,39,"Restriction of Upper Esophagus, Percutaneous Approach",Unspecified symptoms and signs involving cognitive functions following other nontraumatic intracranial hemorrhage
+38,Kamba,76,"Occlusion of Right Lesser Saphenous Vein with Intraluminal Device, Percutaneous Approach","Laceration with foreign body of left shoulder, initial encounter"
+39,Yambee,51,"Drainage of Right Vocal Cord, Via Natural or Artificial Opening Endoscopic","Cocaine dependence with cocaine-induced psychotic disorder, unspecified"
+40,Innotype,95,"Bypass Right Axillary Artery to Left Upper Arm Artery, Open Approach","Pressure ulcer of left elbow, unstageable"
+41,Feedspan,100,Magnetic Resonance Imaging (MRI) of Bilateral Salivary Glands using Other Contrast,"Term delivery with preterm labor, third trimester, fetus 3"
+42,Jabbercube,73,"Dilation of Right Internal Iliac Artery, Bifurcation, with Three Intraluminal Devices, Open Approach","Superficial foreign body of unspecified elbow, subsequent encounter"
+43,Avamba,17,"Excision of Left Ankle Bursa and Ligament, Percutaneous Approach","Displaced fracture of second metatarsal bone, right foot, subsequent encounter for fracture with malunion"
+44,Fiveclub,9,"Release Left Foot Bursa and Ligament, Open Approach","Displaced spiral fracture of shaft of radius, right arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+45,Fadeo,92,"Transfer Glossopharyngeal Nerve to Accessory Nerve, Open Approach","Maternal care for unstable lie, fetus 3"
+46,Roodel,43,"Physical Rehabilitation and Diagnostic Audiology, Diagnostic Audiology, Hearing Assessment",Other injury of unspecified muscle and tendon at lower leg level
+47,Quaxo,46,"Drainage of Right Thorax Tendon, Percutaneous Approach",Allergy to eggs
+48,Aimbu,37,"Bypass Innominate Artery to Right Lower Leg Artery with Autologous Venous Tissue, Open Approach",Laceration with foreign body of unspecified great toe with damage to nail
+49,Eimbee,11,"Drainage of Left Thumb Phalanx, Percutaneous Approach, Diagnostic","Poisoning by oral contraceptives, accidental (unintentional)"
+50,Tagpad,59,"Bypass Esophageal Vein to Lower Vein with Autologous Arterial Tissue, Open Approach","Occupant of streetcar injured in collision with other object, sequela"
+51,Katz,16,Plain Radiography of Other Upper Arteries using High Osmolar Contrast,"Sprain of left rotator cuff capsule, subsequent encounter"
+52,Feedbug,8,"Restriction of Abdominal Aorta with Branched or Fenestrated Intraluminal Device, Three or More Arteries, Percutaneous Endoscopic Approach","Blister (nonthermal), unspecified great toe"
+53,Jabberbean,30,Computerized Tomography (CT Scan) of Right Tibia/Fibula using High Osmolar Contrast,"Sixth [abducent] nerve palsy, bilateral"
+54,Jetpulse,58,"Revision of Autologous Tissue Substitute in Left Humeral Head, Percutaneous Approach",Age-related osteoporosis without current pathological fracture
+55,Aimbo,81,Beam Radiation of Maxilla using Photons >10 MeV,"Corrosion with resulting rupture and destruction of left eyeball, initial encounter"
+56,Jaxspan,58,"Dilation of Splenic Artery, Bifurcation, with Three Intraluminal Devices, Percutaneous Endoscopic Approach","Unspecified adhesions of iris, left eye"
+57,Gabspot,54,"Excision of Right Internal Mammary Lymphatic, Percutaneous Endoscopic Approach","Infection and inflammatory reaction due to cystostomy catheter, sequela"
+58,Skibox,87,"Dilation of Right Renal Artery, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach","Monteggia's fracture of left ulna, sequela"
+59,Janyx,56,"Chiropractic Manipulation of Rib Cage, Mechanically Assisted","Supervision of other high risk pregnancies, first trimester"
+60,Yadel,40,"Insertion of Infusion Pump into Trunk Subcutaneous Tissue and Fascia, Percutaneous Approach","Unspecified injury of radial artery at wrist and hand level of unspecified arm, sequela"
+61,Jabberstorm,58,"Drainage of Lumbar Vertebral Joint, Open Approach, Diagnostic","Salter-Harris Type I physeal fracture of lower end of unspecified fibula, subsequent encounter for fracture with nonunion"
+62,Roodel,35,"Supplement Left Thorax Tendon with Synthetic Substitute, Open Approach",Corrosions involving 40-49% of body surface with 10-19% third degree corrosion
+63,Yakidoo,97,"Bypass Left Common Iliac Artery to Right External Iliac Artery with Autologous Arterial Tissue, Open Approach","Sprain of unspecified parts of right shoulder girdle, sequela"
+64,Twitterworks,17,"Excision of Left Main Bronchus, Percutaneous Endoscopic Approach, Diagnostic","Poisoning by antimycobacterial drugs, assault, subsequent encounter"
+65,Oodoo,26,"Excision of Right External Iliac Artery, Open Approach, Diagnostic","Puncture wound without foreign body of right great toe without damage to nail, sequela"
+66,Livepath,16,"Drainage of Left Basilic Vein, Percutaneous Endoscopic Approach, Diagnostic",Epiphora due to insufficient drainage
+67,Livefish,87,"Supplement Larynx with Synthetic Substitute, Via Natural or Artificial Opening","Traumatic rupture of collateral ligament of left index finger at metacarpophalangeal and interphalangeal joint, initial encounter"
+68,Jamia,80,"Dilation of Hepatic Artery with Two Drug-eluting Intraluminal Devices, Open Approach","Displaced transverse fracture of shaft of left fibula, initial encounter for closed fracture"
+69,Linklinks,69,"Dilation of Left Popliteal Artery, Bifurcation, with Intraluminal Device, Percutaneous Endoscopic Approach","Laceration of muscle, fascia and tendon of long head of biceps, right arm, subsequent encounter"
+70,Voomm,64,Magnetic Resonance Imaging (MRI) of Bilateral Jugular Veins,"Burn of unspecified degree of left toe(s) (nail), subsequent encounter"
+71,Zoonoodle,63,"Reposition Right Ulna, Percutaneous Approach","Displaced midcervical fracture of left femur, subsequent encounter for closed fracture with malunion"
+72,Flashset,82,"Excision of Pons, Percutaneous Endoscopic Approach",Unsatisfactory restoration of tooth
+73,Thoughtstorm,8,"Revision of Autologous Tissue Substitute in Lumbar Vertebral Disc, Percutaneous Approach","Nondisplaced comminuted fracture of shaft of unspecified fibula, subsequent encounter for open fracture type I or II with nonunion"
+74,Tagtune,52,"Drainage of Right Epididymis with Drainage Device, Open Approach","Laceration of other specified muscles, fascia and tendons at wrist and hand level, unspecified hand"
+75,Babblestorm,53,"Release Bladder Neck, Via Natural or Artificial Opening Endoscopic","Struck by falling object on other unpowered watercraft, initial encounter"
+76,Meeveo,66,"Excision of Right Upper Leg Tendon, Percutaneous Approach",Gas pain
+77,Tanoodle,41,"Revision of Stimulator Lead in Lower Muscle, Percutaneous Endoscopic Approach","Displaced transverse fracture of shaft of right tibia, subsequent encounter for closed fracture with routine healing"
+78,Minyx,3,"Excision of Right Ankle Region, Percutaneous Endoscopic Approach, Diagnostic",Excessive keratinized residual ridge mucosa
+79,Tekfly,46,"Supplement Right Fallopian Tube with Synthetic Substitute, Open Approach",Burns involving 30-39% of body surface with 30-39% third degree burns
+80,Avavee,40,"Bypass Abdominal Aorta to Right Common Iliac Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",Malignant neoplasm of overlapping sites of right eye and adnexa
+81,Edgewire,69,"Male Reproductive System, Reposition","Other specified injury of peroneal artery, unspecified leg, subsequent encounter"
+82,LiveZ,51,"Introduction of Other Anti-infective into Biliary and Pancreatic Tract, Via Natural or Artificial Opening","Complete traumatic amputation of right forearm, level unspecified, subsequent encounter"
+83,Yoveo,78,"Bypass Descending Colon to Rectum with Synthetic Substitute, Open Approach","Nondisplaced fracture of medial condyle of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+84,Flipopia,47,"Revision of Infusion Device in Face, Percutaneous Endoscopic Approach","Other fracture of unspecified femur, subsequent encounter for closed fracture with nonunion"
+85,Lazzy,92,"Revision of Nonautologous Tissue Substitute in Left Metatarsal-Phalangeal Joint, Open Approach","2-part nondisplaced fracture of surgical neck of left humerus, sequela"
+86,Centimia,31,"Repair Left Upper Extremity Lymphatic, Open Approach","Nondisplaced fracture of coronoid process of left ulna, subsequent encounter for open fracture type I or II with delayed healing"
+87,Photobug,16,"Alteration of Right Ankle Region with Synthetic Substitute, Percutaneous Endoscopic Approach","Nondisplaced fracture of body of right calcaneus, subsequent encounter for fracture with routine healing"
+88,Realcube,3,"Dilation of Left Popliteal Artery with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach",Non-pressure chronic ulcer of buttock with necrosis of bone
+89,Devify,38,"Occlusion of Sigmoid Colon, Via Natural or Artificial Opening","Unspecified subluxation of left middle finger, initial encounter"
+90,Flashpoint,11,"Occlusion of Right Temporal Artery with Extraluminal Device, Open Approach","Macula scars of posterior pole (postinflammatory) (post-traumatic), unspecified eye"
+91,Photobug,34,Hyperthermia of Face Skin,Greenstick fracture of shaft of radius
+92,Quimba,42,"Excision of Transverse Colon, Open Approach, Diagnostic","Unspecified sprain of right foot, subsequent encounter"
+93,Vidoo,80,"Dilation of Left Vertebral Artery with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach","Glaucoma secondary to eye trauma, unspecified eye, mild stage"
+94,Eadel,8,"Replacement of Left Lower Leg Skin with Synthetic Substitute, External Approach","Congenital absence of upper arm and forearm with hand present, bilateral"
+95,Feedfire,60,"Extirpation of Matter from Right Pelvic Bone, Percutaneous Endoscopic Approach","Pathological fracture, unspecified finger(s), initial encounter for fracture"
+96,Twitterworks,64,"Dilation of Left Pulmonary Artery with Intraluminal Device, Percutaneous Endoscopic Approach","Unspecified occupant of heavy transport vehicle injured in noncollision transport accident in traffic accident, initial encounter"
+97,Yata,94,"Revision of Infusion Device in Right Lung, Via Natural or Artificial Opening","Nondisplaced segmental fracture of shaft of unspecified fibula, initial encounter for closed fracture"
+98,Jaxspan,65,"Dilation of Celiac Artery, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach","Unspecified physeal fracture of upper end of right fibula, sequela"
+99,Flipbug,67,"Repair Ulnar Nerve, Percutaneous Approach","Corneal deposits in metabolic disorders, left eye"
+100,Gigaclub,53,"Revision of Infusion Pump in Trunk Subcutaneous Tissue and Fascia, Open Approach",Centrilobular emphysema
+101,Thoughtbridge,81,"Occlusion of Cecum with Extraluminal Device, Percutaneous Endoscopic Approach","Food in esophagus causing compression of trachea, initial encounter"
+102,Skivee,30,Osteopathic Treatment of Abdomen using Articulatory-Raising Forces,"Adverse effect of antimycobacterial drugs, sequela"
+103,Bubblemix,15,"Restriction of Left External Jugular Vein with Intraluminal Device, Percutaneous Endoscopic Approach","Person boarding or alighting a pick-up truck or van injured in collision with heavy transport vehicle or bus, subsequent encounter"
+104,Tanoodle,86,"Dilation of Right Subclavian Artery with Three Drug-eluting Intraluminal Devices, Percutaneous Approach","Foreign body in conjunctival sac, right eye, sequela"
+105,Jabberbean,31,"Revision of Drainage Device in Right Knee Joint, Open Approach",Encounter for fitting and adjustment of partial artificial left arm
+106,Zoozzy,56,"Bypass Bilateral Ureters to Left Ureter with Synthetic Substitute, Percutaneous Endoscopic Approach","Other fracture of upper end of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+107,Rhynoodle,64,"Fusion of Right Ankle Joint, Percutaneous Endoscopic Approach","Foreign body in left ear, subsequent encounter"
+108,Yakitri,55,High Dose Rate (HDR) Brachytherapy of Duodenum using Cesium 137 (Cs-137),"Fracture of unspecified tarsal bone(s) of left foot, initial encounter for open fracture"
+109,Twitterwire,17,Compression of Left Lower Extremity using Intermittent Pressure Device,"Unspecified fracture of head of right femur, sequela"
+110,Midel,26,"Revision of External Fixation Device in Right Metacarpocarpal Joint, Open Approach",Malignant neoplasm of overlapping sites of cervix uteri
+111,Dablist,24,"Bypass Right Ventricle to Right Pulmonary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach","Salter-Harris Type II physeal fracture of right metatarsal, subsequent encounter for fracture with nonunion"
+112,Browsetype,42,"Reposition Left Tibia with Intramedullary Internal Fixation Device, Percutaneous Endoscopic Approach",Toxic optic neuropathy
+113,Teklist,95,"Extirpation of Matter from Jejunum, Open Approach",Corrosion of unspecified degree of scalp [any part]
+114,Wikivu,66,"Bypass Right External Iliac Artery to Left Femoral Artery with Autologous Venous Tissue, Open Approach",Occupant of heavy transport vehicle injured in other and unspecified transport accidents
+115,JumpXS,78,"Destruction of Right Hand Subcutaneous Tissue and Fascia, Open Approach",Observation and evaluation of newborn for suspected metabolic condition ruled out
+116,Dabjam,35,"Insertion of Intramedullary Internal Fixation Device into Left Radius, Percutaneous Endoscopic Approach",Cannabis abuse with unspecified cannabis-induced disorder
+117,Photobug,66,"Removal of Internal Fixation Device from Right Humeral Shaft, External Approach","Unspecified subluxation of left sternoclavicular joint, sequela"
+118,Zoomlounge,51,"Supplement Left Posterior Tibial Artery with Nonautologous Tissue Substitute, Percutaneous Approach","Underdosing of mixed antiepileptics, sequela"
+119,Aivee,90,"Bypass Bilateral Ureters to Bladder with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach","Toxic effect of unspecified substance, assault"
+120,Roomm,2,"Reposition Pancreas, Percutaneous Endoscopic Approach",Procreative counseling and advice using natural family planning
+121,Jabbersphere,21,"Excision of Right Hand Tendon, Percutaneous Approach, Diagnostic","Other contact with turkey, initial encounter"
+122,Wikido,16,"Removal of Radioactive Element from Face, Percutaneous Approach",Corrosion of first degree of upper back
+123,Buzzdog,12,"Excision of Urethra, External Approach, Diagnostic","Displaced transverse fracture of shaft of unspecified femur, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+124,Snaptags,72,"Control Bleeding in Right Elbow Region, Open Approach","Injury due to collapse of burning building or structure in uncontrolled fire, initial encounter"
+125,Browsedrive,51,"Repair Right Breast, Open Approach",Foreign body in left ear
+126,Blogpad,72,"Bypass Left External Iliac Artery to Lower Extremity Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",Unspecified traumatic spondylolisthesis of fifth cervical vertebra
+127,Blogtag,94,Low Dose Rate (LDR) Brachytherapy of Thymus using Cesium 137 (Cs-137),"Nondisplaced comminuted fracture of shaft of ulna, right arm"
+128,Wikizz,23,"Supplement Thoracic Vertebral Disc with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach","Unspecified injury of other blood vessels at forearm level, unspecified arm, sequela"
+129,Quimm,100,"Reposition Left Cephalic Vein, Percutaneous Endoscopic Approach",Dislocation of T2/T3 thoracic vertebra
+130,Skippad,74,"Supplement Left Femoral Shaft with Synthetic Substitute, Percutaneous Endoscopic Approach","Child sexual abuse, confirmed, sequela"
+131,Realfire,27,"Fluoroscopy of Right Pulmonary Vein using High Osmolar Contrast, Guidance","Glycogen storage disease, unspecified"
+132,Fanoodle,78,Plain Radiography of Right Vertebral Artery using Other Contrast,Hit or struck by falling object due to accident to watercraft
+133,Yacero,42,"Insertion of Infusion Device into Middle Colic Artery, Open Approach","Nondisplaced segmental fracture of shaft of right fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+134,Latz,17,"Occlusion of Left Posterior Tibial Artery with Extraluminal Device, Percutaneous Approach",Diseases of Bartholin's gland
+135,Janyx,74,"Revision of Spacer in Right Finger Phalangeal Joint, Open Approach","Effusion, wrist"
+136,Fivebridge,85,"Drainage of Pancreas, Percutaneous Endoscopic Approach, Diagnostic","Deep vascularization of cornea, bilateral"
+137,Voolith,13,"Insertion of Intraluminal Device into Right Colic Artery, Open Approach","Pathological fracture, right fibula, subsequent encounter for fracture with routine healing"
+138,Gabtune,34,"Measurement of Products of Conception, Cardiac Rhythm, External Approach","Unspecified injury of right foot, subsequent encounter"
+139,Zoonder,70,"Replacement of Right Sphenoid Bone with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",Intrasphincteric abscess
+140,Vitz,75,"Repair Right Orbit, External Approach","Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, bilateral"
+141,Oyoyo,49,"Restriction of Left Internal Iliac Artery with Extraluminal Device, Open Approach","Adverse effect of macrolides, sequela"
+142,Oodoo,27,"Insertion of Intraluminal Device into Left Greater Saphenous Vein, Open Approach","Unspecified occupant of heavy transport vehicle injured in noncollision transport accident in nontraffic accident, initial encounter"
+143,Eamia,99,"Drainage of Lower Tooth with Drainage Device, External Approach, Multiple","Unspecified physeal fracture of upper end of unspecified fibula, subsequent encounter for fracture with routine healing"
+144,Kimia,33,"Drainage of Left Testis, Percutaneous Approach","Blister (nonthermal), left knee, sequela"
+145,Feednation,58,"Excision of Coccygeal Glomus, Percutaneous Approach, Diagnostic",Other specified acquired deformities of right forearm
+146,Yamia,46,"Change Other Device in Brain, External Approach","Nondisplaced fracture of proximal phalanx of unspecified great toe, subsequent encounter for fracture with routine healing"
+147,Aimbu,66,"Drainage of Left Temporal Bone, Percutaneous Approach","Corrosion of second degree of right hand, unspecified site, sequela"
+148,Thoughtbeat,4,"Insertion of Intraluminal Device into Right Basilic Vein, Open Approach","Nondisplaced Type II dens fracture, initial encounter for closed fracture"
+149,Fiveclub,31,"Drainage of Right Large Intestine, Via Natural or Artificial Opening, Diagnostic",Displaced fracture of anterior wall of unspecified acetabulum
+150,Topicware,47,"Destruction of Right Metatarsal-Tarsal Joint, Percutaneous Endoscopic Approach",Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating a cardiac bypass
+151,Voonte,29,"Dilation of Cystic Duct, Percutaneous Approach","Discitis, unspecified, multiple sites in spine"
+152,Skyble,4,Computerized Dynamic Posturography Assessment,Burn of unspecified internal organ
+153,Jabbertype,78,Computerized Tomography (CT Scan) of Liver and Spleen using Low Osmolar Contrast,Bus occupant (driver) (passenger) injured in other specified transport accidents
+154,Avavee,38,"Revision of Contraceptive Device in Trunk Subcutaneous Tissue and Fascia, Percutaneous Approach",Unspecified sequelae of nontraumatic subarachnoid hemorrhage
+155,Topiczoom,88,"Revision of Nonautologous Tissue Substitute in Omentum, Percutaneous Approach","Major laceration of greater saphenous vein at hip and thigh level, unspecified leg, sequela"
+156,Tagpad,86,"Drainage of Left Foot with Drainage Device, Open Approach",Burns involving 80-89% of body surface with 50-59% third degree burns
+157,Trupe,40,"Restriction of Left External Carotid Artery with Bioactive Intraluminal Device, Percutaneous Endoscopic Approach",Corrosion of third degree of female genital region
+158,Rooxo,98,"Bypass Right Pleural Cavity to Left Pleural Cavity with Synthetic Substitute, Percutaneous Endoscopic Approach",MERRF syndrome
+159,Thoughtblab,22,"Destruction of Lung Lingula, Percutaneous Endoscopic Approach","Displaced bimalleolar fracture of left lower leg, subsequent encounter for closed fracture with delayed healing"
+160,Kaymbo,79,"Occlusion of Right Greater Saphenous Vein with Intraluminal Device, Open Approach","Poisoning by cocaine, undetermined"
+161,Teklist,72,"Bypass Left Common Iliac Artery to Right Common Iliac Artery with Synthetic Substitute, Percutaneous Endoscopic Approach","Vitreous membranes and strands, left eye"
+162,Aimbu,74,"Inspection of Kidney, Via Natural or Artificial Opening Endoscopic",Infection of obstetric surgical wound
+163,Layo,59,"Alteration of Left Lower Leg with Synthetic Substitute, Open Approach",Sprain of other specified parts of thorax
+164,Quire,24,"Removal of Autologous Tissue Substitute from Left Carpal, Percutaneous Endoscopic Approach",Idiopathic aseptic necrosis of unspecified humerus
+165,Eamia,80,"Introduction of Local Anesthetic into Male Reproductive, Via Natural or Artificial Opening",Adverse effect of other parasympatholytics [anticholinergics and antimuscarinics] and spasmolytics
+166,Quatz,76,"Removal of Internal Fixation Device from Left Metatarsal-Phalangeal Joint, External Approach","Dislocation of other carpometacarpal joint of unspecified hand, initial encounter"
+167,Leenti,35,"Replacement of Right Sphenoid Bone with Synthetic Substitute, Open Approach",Aspiration pneumonitis due to anesthesia during labor and delivery
+168,Bubbletube,63,"Removal of Monitoring Device from Pleura, Percutaneous Approach",Takotsubo syndrome
+169,Zoomzone,20,"Destruction of Left Temporal Artery, Percutaneous Approach","Unspecified pedal cyclist injured in collision with unspecified motor vehicles in nontraffic accident, initial encounter"
+170,Reallinks,83,"Reposition Left Shoulder Joint with Internal Fixation Device, External Approach",Other disorders affecting eyelid function
+171,Eabox,98,"Bypass Cecum to Transverse Colon with Synthetic Substitute, Open Approach",Primary dysmenorrhea
+172,Browsecat,18,Removal of Pressure Dressing on Left Inguinal Region,"Driver of three-wheeled motor vehicle injured in collision with other motor vehicles in traffic accident, sequela"
+173,Flipbug,21,"Removal of Nonautologous Tissue Substitute from Kidney, Open Approach","Idiopathic cysts of iris, ciliary body or anterior chamber, left eye"
+174,Kwinu,94,"Drainage of Left Lower Leg with Drainage Device, Percutaneous Endoscopic Approach","Laceration without foreign body of other specified part of neck, initial encounter"
+175,Topicstorm,26,"Supplement Left Upper Arm Muscle with Autologous Tissue Substitute, Open Approach","Underdosing of skeletal muscle relaxants [neuromuscular blocking agents], initial encounter"
+176,Ainyx,12,"Supplement Left Fallopian Tube with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic","Food in pharynx causing other injury, initial encounter"
+177,Youspan,16,"Removal of Drainage Device from Lumbosacral Disc, Open Approach","Corrosions of other specified parts of right eye and adnexa, initial encounter"
+178,Skinte,82,"Dilation of Hepatic Artery with Drug-eluting Intraluminal Device, Percutaneous Approach","Acute follicular conjunctivitis, unspecified eye"
+179,Meevee,12,"Bypass Pelvic Cavity to Pelvic Cavity with Synthetic Substitute, Percutaneous Endoscopic Approach","Toxic effect of other specified noxious substances eaten as food, undetermined"
+180,Meembee,18,"Drainage of Spinal Canal with Drainage Device, Percutaneous Approach","Infective myositis, right ankle"
+181,Aivee,16,"Computerized Tomography (CT Scan) of Brain using Other Contrast, Unenhanced and Enhanced",Non-pressure chronic ulcer of right ankle with unspecified severity
+182,Photojam,62,"Occlusion of Descending Colon, Percutaneous Endoscopic Approach","Puncture wound with foreign body of unspecified elbow, sequela"
+183,Midel,50,"Excision of Brain, Open Approach, Diagnostic","Displaced fracture of distal phalanx of unspecified lesser toe(s), subsequent encounter for fracture with delayed healing"
+184,Devbug,83,"Release Aortic Lymphatic, Percutaneous Endoscopic Approach",Frostbite with tissue necrosis of unspecified knee and lower leg
+185,Yambee,66,"Removal of Drainage Device from Right Temporomandibular Joint, External Approach","Maternal care for excessive fetal growth, second trimester, fetus 3"
+186,Thoughtstorm,13,"Dilation of Right Popliteal Artery, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Approach","Poisoning by emollients, demulcents and protectants, accidental (unintentional), subsequent encounter"
+187,Topdrive,71,"Excision of Right Shoulder Bursa and Ligament, Open Approach",Other specified injury of superior vena cava
+188,Eidel,57,"Dilation of Right Radial Artery with Two Drug-eluting Intraluminal Devices, Open Approach","Pedal cycle passenger injured in collision with two- or three-wheeled motor vehicle in traffic accident, subsequent encounter"
+189,Jayo,90,"Reposition Stomach, Open Approach",Teething syndrome
+190,Dabfeed,19,"Drainage of Cervical Vertebra, Open Approach","Accidental malfunction of hunting rifle, initial encounter"
+191,Cogilith,56,"Supplement Sigmoid Colon with Autologous Tissue Substitute, Open Approach","Nondisplaced segmental fracture of shaft of left tibia, sequela"
+192,Bubblemix,87,Immobilization of Right Toe using Splint,"Nondisplaced fracture of fifth metatarsal bone, left foot, initial encounter for open fracture"
+193,Twitterworks,7,"Dilation of Left Vertebral Artery with Intraluminal Device, Percutaneous Approach","Poisoning by, adverse effect of and underdosing of antiepileptics"
+194,Vimbo,42,"Drainage of Median Nerve, Percutaneous Endoscopic Approach",Abnormal jaw closure
+195,Skynoodle,26,"Removal of Radioactive Element from Esophagus, External Approach","Laceration of muscle, fascia and tendon of triceps, left arm, sequela"
+196,Skyble,70,"Repair Left Little Finger, Percutaneous Approach",Contact with hot household appliances
+197,Yakijo,38,"Drainage of Right Lower Extremity, Percutaneous Approach, Diagnostic",Trachoma
+198,Flashpoint,89,"Drainage of Spinal Meninges with Drainage Device, Percutaneous Approach","Laceration of unspecified blood vessel at wrist and hand level of right arm, subsequent encounter"
+199,Yamia,76,"Replacement of Skull with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach","Unspecified fracture of navicular [scaphoid] bone of unspecified wrist, subsequent encounter for fracture with malunion"
+200,Riffpath,13,"Drainage of Urethra, Percutaneous Endoscopic Approach, Diagnostic","Other fracture of upper end of right tibia, initial encounter for open fracture type I or II"
+201,Edgeclub,92,"Inspection of Pancreatic Duct, Open Approach","Kaschin-Beck disease, wrist"
+202,Kazu,68,"Measurement of Products of Conception, Nervous Conductivity, Via Natural or Artificial Opening Endoscopic","Injury of other nerves at hip and thigh level, left leg"
+203,Gabspot,69,"Removal of Nonautologous Tissue Substitute from Left Tarsal Joint, Percutaneous Endoscopic Approach",Maternal care for retroversion of gravid uterus
+204,Mybuzz,14,"Fusion of Left Shoulder Joint, Open Approach","Displacement of implanted electronic neurostimulator of peripheral nerve electrode (lead), sequela"
+205,Dabshots,60,Beam Radiation of Nose using Photons 1 - 10 MeV,"Nursemaid's elbow, right elbow, initial encounter"
+206,Tagopia,63,"Revision of Drainage Device in Right Eye, External Approach",Cutaneous and mucocutaneous bartonellosis
+207,Centimia,13,"Introduction of Other Antineoplastic into Central Vein, Percutaneous Approach","Other fracture of unspecified great toe, subsequent encounter for fracture with nonunion"
+208,Ooba,8,Immobilization of Right Toe using Splint,Other fracture of patella
+209,Twitterworks,57,"Introduction of Destructive Agent into Skin and Mucous Membranes, External Approach","Varicose veins of lower extremity in pregnancy, first trimester"
+210,Youspan,81,"Release Median Nerve, Percutaneous Approach","Type II occipital condyle fracture, unspecified side, initial encounter for open fracture"
+211,Dabjam,73,"Drainage of Right Upper Extremity Bursa and Ligament, Percutaneous Approach",Open wound of forearm
+212,Tazzy,78,"Transfer Acoustic Nerve to Abducens Nerve, Open Approach",Lobster-claw left hand
+213,Wordpedia,30,"Occlusion of Common Bile Duct with Extraluminal Device, Percutaneous Approach","Maternal care for other abnormalities of gravid uterus, unspecified trimester"
+214,Brainsphere,68,"Reposition Cystic Duct, Percutaneous Endoscopic Approach","Maternal care for Anti-A sensitization, third trimester, not applicable or unspecified"
+215,Yambee,65,"Revision of Infusion Device in Lymphatic, External Approach","Other injury to person on ground due to air transport accident, sequela"
+216,Oyoyo,91,"Excision of Intracranial Artery, Percutaneous Endoscopic Approach",Cardiac arrest of newborn
+217,Centimia,21,"Release Cervical Vertebral Disc, Open Approach",Chronic lacrimal mucocele of bilateral lacrimal passages
+218,Kamba,42,"Dilation of Face Artery, Bifurcation, with Three Intraluminal Devices, Percutaneous Approach","2-part nondisplaced fracture of surgical neck of unspecified humerus, subsequent encounter for fracture with routine healing"
+219,Divavu,6,High Dose Rate (HDR) Brachytherapy of Hard Palate using Palladium 103 (Pd-103),"Unspecified occupant of bus injured in collision with other nonmotor vehicle in traffic accident, initial encounter"
+220,Mycat,90,High Dose Rate (HDR) Brachytherapy of Uterus using Iridium 192 (Ir-192),"Displaced fracture of base of neck of unspecified femur, subsequent encounter for closed fracture with delayed healing"
+221,Roodel,61,"Drainage of Right Lesser Saphenous Vein, Percutaneous Approach, Diagnostic","Inhalation of steam and other hot vapors, sequela"
+222,Realbridge,50,"Division of Lumbosacral Plexus, Open Approach","Other injury to person on ground due to air transport accident, subsequent encounter"
+223,Thoughtblab,20,"Bypass Left Internal Iliac Artery to Left External Iliac Artery with Synthetic Substitute, Percutaneous Endoscopic Approach","Accidental discharge from other specified firearms, sequela"
+224,Gevee,48,"Removal of Extraluminal Device from Urethra, Via Natural or Artificial Opening","Burkitt lymphoma, spleen"
+225,Flashset,17,"Restriction of Anus, Via Natural or Artificial Opening","Cardiac arrhythmia, unspecified"
+226,Skyndu,35,"Release Right Radius, Open Approach",Carbuncle of other sites
+227,Meemm,89,"Removal of Nonautologous Tissue Substitute from Left Tarsal Joint, Open Approach",Driver of three-wheeled motor vehicle injured in collision with unspecified motor vehicles in traffic accident
+228,Camido,96,"Inspection of Omentum, Percutaneous Approach",Other fall from one level to another
+229,Youopia,81,"Bypass Jejunum to Descending Colon with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach","Unspecified injury of extensor muscle, fascia and tendon of left little finger at wrist and hand level, subsequent encounter"
+230,Innotype,29,"Destruction of Prostate, Percutaneous Endoscopic Approach","Pathological fracture in other disease, right hand, sequela"
+231,Rhynyx,80,"Removal of Radioactive Element from Upper Jaw, Percutaneous Approach",Toxic effect of halogen derivatives of aliphatic and aromatic hydrocarbons
+232,Topicware,82,Plain Radiography of Lumbar Arteries using Other Contrast,"Corrosion of third degree of multiple left fingers (nail), including thumb, initial encounter"
+233,Twinte,1,"Destruction of Right Hand Subcutaneous Tissue and Fascia, Percutaneous Approach","Laceration without foreign body of unspecified elbow, initial encounter"
+234,InnoZ,10,"Insertion of Infusion Device into Left Internal Carotid Artery, Percutaneous Approach",Other paralytic syndromes
+235,Edgeclub,26,"Excision of Left Kidney, Via Natural or Artificial Opening","Nondisplaced fracture of second metatarsal bone, unspecified foot, initial encounter for closed fracture"
+236,Shuffledrive,88,"Dilation of Right Middle Lobe Bronchus with Intraluminal Device, Via Natural or Artificial Opening Endoscopic","Other specified injury of popliteal artery, right leg, initial encounter"
+237,Centizu,55,"Revision of Infusion Device in Right Metacarpophalangeal Joint, Open Approach","Drowning and submersion due to falling or jumping from crushed unspecified watercraft, subsequent encounter"
+238,Browsecat,96,"Revision of Autologous Tissue Substitute in Lumbosacral Joint, Open Approach",Bitten by duck
+239,Zoomcast,86,"Dilation of Superior Mesenteric Artery, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Open Approach","Other and unspecified malignant neoplasm of skin of lower limb, including hip"
+240,Ntag,54,"Repair Left Kidney Pelvis, Open Approach","Striking against or struck by other automobile airbag, initial encounter"
+241,Dynava,48,"Resection of Nasal Turbinate, Via Natural or Artificial Opening Endoscopic","Gestational diabetes mellitus in the puerperium, unspecified control"
+242,Edgepulse,60,"Removal of Drainage Device from Larynx, Open Approach","Nondisplaced fracture of fourth metatarsal bone, unspecified foot, initial encounter for open fracture"
+243,Fadeo,34,"Excision of Right Internal Carotid Artery, Percutaneous Endoscopic Approach","Salter-Harris Type IV physeal fracture of upper end of radius, left arm, subsequent encounter for fracture with nonunion"
+244,Linktype,85,"Dilation of Right Internal Iliac Artery, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach","Elevated white blood cell count, unspecified"
+245,Zoomdog,48,"Dilation of Left Subclavian Artery with Three Intraluminal Devices, Percutaneous Endoscopic Approach","Nondisplaced transverse fracture of shaft of left ulna, subsequent encounter for closed fracture with nonunion"
+246,Dazzlesphere,73,"Reposition Left Lacrimal Bone with Internal Fixation Device, Percutaneous Endoscopic Approach","Nondisplaced fracture of middle third of navicular [scaphoid] bone of unspecified wrist, sequela"
+247,Shufflebeat,94,"Excision of Left Adrenal Gland, Open Approach, Diagnostic",Focal hyperhidrosis
+248,Kare,99,"Alteration of Right Lower Leg with Nonautologous Tissue Substitute, Open Approach",Driveway of boarding-house as the place of occurrence of the external cause
+249,Yakijo,95,"Skin and Breast, Drainage",Other retained organic fragments
+250,Meembee,88,"Insertion of Infusion Device into Cervicothoracic Vertebral Disc, Percutaneous Approach",Other superficial bite of unspecified parts of thorax
+251,Shufflebeat,60,"Division of Left Hip Tendon, Percutaneous Endoscopic Approach","Corrosions of unspecified ear drum, sequela"
+252,Eimbee,30,"Reposition Right Greater Saphenous Vein, Percutaneous Endoscopic Approach","Flail joint, left hand"
+253,Zoozzy,82,"Division of Right Sphenoid Bone, Percutaneous Approach","Fall through floor, initial encounter"
+254,Youtags,21,"Fluoroscopy of Other Upper Arteries using Low Osmolar Contrast, Laser Intraoperative","Burn of second degree of right hand, unspecified site, subsequent encounter"
+255,Twitterbridge,17,"Inspection of Respiratory Tract, Via Natural or Artificial Opening Endoscopic Approach",Unspecified disorder of vestibular function
+256,Buzzshare,24,"Release Left Abdomen Bursa and Ligament, Percutaneous Endoscopic Approach",Corrosion of first degree of right foot
+257,Realblab,55,"Drainage of Right Lower Extremity, Open Approach","Air embolism following infusion, transfusion and therapeutic injection, subsequent encounter"
+258,Flipstorm,28,Packing of Left Lower Leg using Packing Material,Other dislocation of left knee
+259,Plajo,77,"Restriction of Left Greater Saphenous Vein, Percutaneous Approach",Other dietary vitamin B12 deficiency anemia
+260,Rooxo,9,"Supplement Left Popliteal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",Posterior subcapsular polar infantile and juvenile cataract
+261,Eazzy,34,"Resection of Anus, Via Natural or Artificial Opening",Conductive and sensorineural hearing loss with restricted hearing on the contralateral side
+262,Feednation,27,"Revision of External Fixation Device in Right Metacarpal, Percutaneous Endoscopic Approach","War operations involving unspecified effect of nuclear weapon, military personnel"
+263,Browseblab,36,"Dilation of Left Colic Artery with Three Intraluminal Devices, Percutaneous Approach",Nondisplaced oblique fracture of shaft of right fibula
+264,Dynabox,67,"Fusion of Right Metatarsal-Tarsal Joint with Internal Fixation Device, Percutaneous Approach",Person on outside of car injured in collision with pick-up truck in nontraffic accident
+265,Feedfish,14,"Removal of Nonautologous Tissue Substitute from Bladder, Via Natural or Artificial Opening",Anaphylactic reaction due to other fish
+266,Shuffledrive,7,"Insertion of Infusion Device into Vagina and Cul-de-sac, Percutaneous Approach","Crushing injury of unspecified thigh, initial encounter"
+267,Feednation,88,"Revision of Nonautologous Tissue Substitute in Uterus and Cervix, Percutaneous Endoscopic Approach","Laceration of other muscles, fascia and tendons at forearm level, right arm, subsequent encounter"
+268,Babbleopia,66,Beam Radiation of Larynx using Photons >10 MeV,"Legal intervention involving unspecified sharp objects, law enforcement official injured, sequela"
+269,Topicblab,13,"Repair Inferior Mesenteric Vein, Open Approach",Other intraretinal microvascular abnormalities
+270,Eamia,13,Range of Motion and Joint Mobility Treatment of Musculoskeletal System - Upper Back / Upper Extremity,"Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, right eye"
+271,Vidoo,39,"Extirpation of Matter from Thoracic Aorta, Ascending/Arch, Percutaneous Approach",Nonpurulent mastitis associated with pregnancy
+272,Voonix,46,"Bypass Abdominal Aorta to Abdominal Aorta with Autologous Arterial Tissue, Open Approach","Coxa magna, left hip"
+273,Kazu,52,"Removal of Synthetic Substitute from Right Metacarpocarpal Joint, Percutaneous Approach","Female genital mutilation status, unspecified"
+274,Quatz,92,"Insertion of External Fixation Device into Left Ankle Joint, Open Approach",Acquired atrophy of ovary and fallopian tube
+275,Twitterwire,38,"Excision of Common Bile Duct, Percutaneous Endoscopic Approach","Unspecified subluxation of left patella, initial encounter"
+276,Camimbo,74,"Reattachment of Left Spermatic Cord, Open Approach",Contusion of right ankle
+277,Wikivu,35,"Release Right Lower Leg Subcutaneous Tissue and Fascia, External Approach","Laceration of radial artery at forearm level, unspecified arm, subsequent encounter"
+278,Shufflebeat,74,"Insertion of Tissue Expander into Face Subcutaneous Tissue and Fascia, Percutaneous Approach","Nondisplaced fracture of greater trochanter of unspecified femur, subsequent encounter for closed fracture with routine healing"
+279,Mydeo,8,"Restriction of Left External Jugular Vein with Extraluminal Device, Open Approach","Displaced supracondylar fracture with intracondylar extension of lower end of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+280,Shuffletag,52,"Transfusion of Allogeneic Related Cord Blood Stem Cells into Central Vein, Open Approach","Maternal care for other isoimmunization, unspecified trimester, fetus 1"
+281,Chatterpoint,13,"Fragmentation in Accessory Pancreatic Duct, Via Natural or Artificial Opening","Other specified crystal arthropathies, hip"
+282,Centimia,63,"Revision of Nonautologous Tissue Substitute in Left Pelvic Bone, Percutaneous Endoscopic Approach","Underdosing of other agents primarily affecting gastrointestinal system, sequela"
+283,Youbridge,65,"Resection of Upper Esophagus, Via Natural or Artificial Opening Endoscopic","Foreign body on external eye, part unspecified, left eye, sequela"
+284,Quimm,32,"Destruction of Left Internal Jugular Vein, Open Approach",Potter's syndrome
+285,Babblestorm,34,"Drainage of Anus, Open Approach, Diagnostic","Scotoma of blind spot area, right eye"
+286,Omba,58,"Introduction of Anti-inflammatory into Genitourinary Tract, Via Natural or Artificial Opening","Other ossification of muscle, right thigh"
+287,Kayveo,75,"Excision of Right Thorax Muscle, Percutaneous Approach","Newborn small for gestational age, 1750-1999 grams"
+288,Jazzy,78,"Alteration of Left Lower Eyelid with Autologous Tissue Substitute, External Approach",Corrosion of second degree of unspecified axilla
+289,Trudoo,78,"Removal of Autologous Tissue Substitute from Thoracic Duct, Percutaneous Endoscopic Approach","Frostbite with tissue necrosis of right toe(s), sequela"
+290,Oozz,32,"Supplement Middle Colic Artery with Synthetic Substitute, Percutaneous Approach",Burns of other specified parts of right eye and adnexa
+291,Vinder,32,"Removal of Infusion Device from Coccygeal Joint, Percutaneous Endoscopic Approach","Displaced transverse fracture of shaft of right tibia, initial encounter for closed fracture"
+292,Twitternation,95,"Removal of Nonautologous Tissue Substitute from Female Perineum, External Approach","Other fracture of unspecified talus, subsequent encounter for fracture with delayed healing"
+293,Oba,61,"Release Left Upper Lung Lobe, Via Natural or Artificial Opening",Hypertrophy of vulva
+294,Browsezoom,35,"Reposition Right Finger Phalangeal Joint with Internal Fixation Device, Percutaneous Approach","Other accident with wheelchair (powered), initial encounter"
+295,Tagcat,84,"Insertion of Radioactive Element into Right Ankle Region, Percutaneous Approach","Fistula, wrist"
+296,Twitterbeat,76,"Extirpation of Matter from Nose, Open Approach","Preterm labor third trimester with preterm delivery third trimester, fetus 3"
+297,Browseblab,8,"Insertion of Infusion Device into Right Hip Joint, Percutaneous Endoscopic Approach","Sprain of left acromioclavicular joint, sequela"
+298,Agivu,34,Immobilization of Chest Wall using Splint,"Other fracture of upper end of right ulna, sequela"
+299,Brightbean,83,"Repair Right Hand Subcutaneous Tissue and Fascia, Percutaneous Approach",Posterior subluxation of right hip
+300,Mudo,56,"Resection of Right Acetabulum, Open Approach",Insect bite (nonvenomous) of foot
+301,Twitterbeat,58,"Occlusion of Bilateral Spermatic Cords with Extraluminal Device, Open Approach",Unspecified injury of shoulder and upper arm
+302,Yakidoo,27,"Dilation of Left Posterior Tibial Artery with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach","Corrosion of unspecified degree of unspecified hand, unspecified site"
+303,Yoveo,17,"Resection of Para-aortic Body, Open Approach","Corrosion of second degree of right axilla, subsequent encounter"
+304,Zoomzone,60,Computerized Tomography (CT Scan) of Pancreas,"War operations involving fragments of improvised explosive device [IED], military personnel"
+305,Meevee,11,"Drainage of Cervical Vertebral Joint, Percutaneous Endoscopic Approach, Diagnostic","Pedestrian on foot injured in collision with other pedestrian conveyance, initial encounter"
+306,Flashpoint,54,"Reposition Right Knee Joint with External Fixation Device, Percutaneous Endoscopic Approach",Foreign body in ear
+307,Thoughtblab,98,"Bypass Left Common Iliac Artery to Abdominal Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach",Other specified intracranial injury with loss of consciousness of 1 hour to 5 hours 59 minutes
+308,Yoveo,70,"Bypass Right Ureter to Bladder with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach","Nondisplaced transverse fracture of shaft of unspecified femur, subsequent encounter for open fracture type I or II with routine healing"
+309,Feedfish,75,"Revision of Synthetic Substitute in Thoracic Duct, Percutaneous Approach","Hypertrophy of bone, left ankle and foot"
+310,Blogspan,74,Beam Radiation of Ileum using Photons <1 MeV,"Contusion and laceration of cerebrum, unspecified, with loss of consciousness of 30 minutes or less, initial encounter"
+311,Kimia,12,"Introduction of Other Gas into Eye, Percutaneous Approach","Poisoning by electrolytic, caloric and water-balance agents, intentional self-harm, initial encounter"
+312,Edgeify,90,"Drainage of Spinal Canal, Percutaneous Approach",Rheumatoid myopathy with rheumatoid arthritis of right elbow
+313,Meembee,47,"Excision of Right Metatarsal-Tarsal Joint, Percutaneous Approach",Dislocation of unspecified interphalangeal joint of left middle finger
+314,Realblab,78,"Dilation of Right Posterior Tibial Artery, Bifurcation, with Three Intraluminal Devices, Percutaneous Approach",Ulceration of vulva
+315,Demizz,11,"Release Right Renal Vein, Percutaneous Approach",Malignant neoplasm of vestibule of mouth
+316,Topdrive,37,"Removal of Extraluminal Device from Upper Artery, Percutaneous Approach","Poisoning by antidotes and chelating agents, undetermined, sequela"
+317,Zazio,100,"Dilation of Left Ureter with Intraluminal Device, Percutaneous Endoscopic Approach","Traumatic rupture of palmar ligament of right middle finger at metacarpophalangeal and interphalangeal joint, initial encounter"
+318,Rhycero,2,Visual Motor Integration Assessment using Audiovisual Equipment,Other foreign object in larynx
+319,Eayo,80,"Excision of Right Acromioclavicular Joint, Percutaneous Endoscopic Approach","Displaced segmental fracture of shaft of unspecified tibia, subsequent encounter for open fracture type I or II with delayed healing"
+320,Brainbox,71,"Dilation of Right Foot Vein with Intraluminal Device, Percutaneous Endoscopic Approach","Other fracture of shaft of unspecified humerus, sequela"
+321,Oyonder,32,"Extirpation of Matter from Right Internal Mammary Artery, Percutaneous Endoscopic Approach","Nondisplaced fracture of capitate [os magnum] bone, right wrist, initial encounter for closed fracture"
+322,Kaymbo,61,Short Increment Sensitivity Index Assessment,"Displaced fracture of medial phalanx of right index finger, subsequent encounter for fracture with delayed healing"
+323,Yodoo,29,"Bypass Middle Esophagus to Duodenum with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic","Legal intervention involving other gas, law enforcement official injured, initial encounter"
+324,Thoughtbridge,7,"Revision of Synthetic Substitute in Right Finger Phalanx, Open Approach",Fracture of unspecified part of unspecified clavicle
+325,Topicstorm,83,Computerized Tomography (CT Scan) of Right Pulmonary Artery,"Poisoning by unspecified fibrinolysis-affecting drugs, intentional self-harm, initial encounter"
+326,DabZ,61,"Revision of Interbody Fusion Device in Cervicothoracic Vertebral Joint, Open Approach","Unspecified fracture of lower end of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+327,Miboo,39,"Introduction of Radioactive Substance into Peripheral Vein, Percutaneous Approach",Chronic follicular conjunctivitis
+328,Rhynoodle,92,"Supplement Right Tarsal with Nonautologous Tissue Substitute, Open Approach","Major osseous defect, right shoulder region"
+329,Brightdog,96,Computerized Tomography (CT Scan) of Right Scapula using Low Osmolar Contrast,Acute and subacute iridocyclitis
+330,Trilia,42,"Repair Right External Ear, Open Approach","Unspecified fracture of lower end of left ulna, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+331,Meedoo,19,"Excision of Cecum, Percutaneous Approach, Diagnostic","Corrosion of second degree of left elbow, sequela"
+332,Innojam,74,"Replacement of Right Shoulder Joint with Nonautologous Tissue Substitute, Open Approach","Motorcycle driver injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, subsequent encounter"
+333,Tazz,4,"Supplement Right Thumb Phalanx with Autologous Tissue Substitute, Percutaneous Approach","Strain of extensor muscle, fascia and tendon of left thumb at wrist and hand level, sequela"
+334,Devbug,88,"Extirpation of Matter from Left Pleura, Percutaneous Endoscopic Approach",Presence of right artificial wrist joint
+335,Feedmix,9,"Drainage of Ampulla of Vater, Via Natural or Artificial Opening Endoscopic, Diagnostic","Other secondary chronic gout, left ankle and foot"
+336,Realcube,35,"Supplement Left Foot Muscle with Nonautologous Tissue Substitute, Open Approach","Hydroxyapatite deposition disease, right elbow"
+337,Eamia,89,"Removal of Spacer from Right Elbow Joint, Percutaneous Approach","Periprosthetic osteolysis of internal prosthetic right knee joint, sequela"
+338,Voolith,44,"Supplement Mesentery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach","Person boarding or alighting a heavy transport vehicle injured in collision with other nonmotor vehicle, initial encounter"
+339,Wordify,79,"Excision of Adenoids, Open Approach, Diagnostic","Lateral dislocation of proximal end of tibia, left knee, initial encounter"
+340,Linktype,95,Fluoroscopy of Abdominal Aorta,"Nondisplaced fracture of base of neck of unspecified femur, subsequent encounter for closed fracture with routine healing"
+341,Mydeo,27,"Supplement Left Temporal Artery with Nonautologous Tissue Substitute, Percutaneous Approach",Other fracture of right ilium
+342,Rhycero,37,Immobilization of Head using Brace,"Unspecified epiphora, right lacrimal gland"
+343,Topicblab,84,"Replacement of Left Orbit with Nonautologous Tissue Substitute, Open Approach",Postprocedural hematoma of a respiratory system organ or structure following a respiratory system procedure
+344,Npath,55,"Destruction of Left Upper Lung Lobe, Open Approach","Epidural hemorrhage without loss of consciousness, subsequent encounter"
+345,Buzzster,40,Magnetic Resonance Imaging (MRI) of Sacrum and Coccyx using Other Contrast,Chronic pulmonary coccidioidomycosis
+346,Aimbu,34,"Reposition Right Lower Extremity Bursa and Ligament, Open Approach",Nondisplaced fracture of proximal phalanx of right great toe
+347,Tagchat,14,"Occlusion of Right External Carotid Artery with Intraluminal Device, Percutaneous Approach","Traumatic rupture of unspecified radial collateral ligament, sequela"
+348,Vipe,57,"Revision of Internal Fixation Device in Left Clavicle, Percutaneous Endoscopic Approach","Partial traumatic amputation of right hand at wrist level, sequela"
+349,Skaboo,6,"Drainage of Accessory Nerve, Percutaneous Approach, Diagnostic","Nondisplaced fracture of greater tuberosity of right humerus, initial encounter for open fracture"
+350,Twitterworks,6,"Excision of Left Wrist Bursa and Ligament, Percutaneous Approach","Unspecified dislocation of right little finger, subsequent encounter"
+351,Oyoyo,60,"Insertion of External Fixation Device into Left Femoral Shaft, Open Approach",Cerebral infarction
+352,Linktype,45,"Division of Right Upper Leg Muscle, Percutaneous Approach","Unspecified myringitis, left ear"
+353,Wikizz,20,"Excision of Rectum, Via Natural or Artificial Opening",Burns involving 20-29% of body surface with 10-19% third degree burns
+354,Kwilith,6,"Removal of Infusion Device from Epididymis and Spermatic Cord, Open Approach","Nondisplaced fracture of medial phalanx of right little finger, initial encounter for open fracture"
+355,Miboo,94,"Restriction of Right Common Iliac Artery with Extraluminal Device, Percutaneous Endoscopic Approach","Hemorrhoids in pregnancy, first trimester"
+356,Linkbridge,16,"Drainage of Sacral Nerve, Percutaneous Approach, Diagnostic","Poisoning by anthelminthics, assault"
+357,Roomm,8,"Excision of Right Lower Extremity, Percutaneous Approach, Diagnostic","Colles' fracture of unspecified radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+358,Skimia,40,"Drainage of Hepatic Vein, Open Approach, Diagnostic",Varicose veins of lower extremities with both ulcer and inflammation
+359,Devpulse,100,"Extirpation of Matter from Lumbar Vertebral Disc, Percutaneous Approach","Combined forms of age-related cataract, bilateral"
+360,Feedbug,72,"Occlusion of Mesenteric Lymphatic, Open Approach","Unspecified fracture of first thoracic vertebra, initial encounter for open fracture"
+361,Agimba,39,"Excision of Left Toe Phalangeal Joint, Open Approach","Jumping or diving from boat striking bottom causing other injury, sequela"
+362,Realpoint,40,"Bypass Left Ventricle to Pulmonary Trunk with Synthetic Substitute, Percutaneous Endoscopic Approach","Other specified deforming dorsopathies, sacral and sacrococcygeal region"
+363,Centimia,31,"Removal of Internal Fixation Device from Facial Bone, Percutaneous Approach","Toxic effect of arsenic and its compounds, undetermined, initial encounter"
+364,Browsedrive,12,"Replacement of Right Sclera with Synthetic Substitute, External Approach","Unspecified injury of muscle and tendon of long flexor muscle of toe at ankle and foot level, unspecified foot"
+365,Topicstorm,66,Magnetic Resonance Imaging (MRI) of Left Knee,"Nondisplaced comminuted fracture of left patella, subsequent encounter for open fracture type I or II with nonunion"
+366,Avamba,83,"Removal of Drainage Device from Lower Jaw, Percutaneous Approach","Other physeal fracture of lower end of right femur, subsequent encounter for fracture with malunion"
+367,Jaxnation,79,"Introduction of Other Therapeutic Substance into Coronary Artery, Open Approach","Poisoning by unspecified nonopioid analgesic, antipyretic and antirheumatic, accidental (unintentional), subsequent encounter"
+368,Wikizz,81,"Destruction of Left Ankle Joint, Percutaneous Approach","Contusion, laceration, and hemorrhage of brainstem without loss of consciousness, subsequent encounter"
+369,Gigazoom,61,"Drainage of Left Peroneal Artery, Percutaneous Endoscopic Approach, Diagnostic","Pressure ulcer of right upper back, stage 3"
+370,Zoomdog,75,"Bypass Esophagus to Ileum with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach","Strain of right quadriceps muscle, fascia and tendon, sequela"
+371,BlogXS,54,"Subcutaneous Tissue and Fascia, Release","Open bite, left foot, sequela"
+372,Centimia,32,"Introduction of Destructive Agent into Nose, Percutaneous Approach","Unspecified motorcycle rider injured in collision with pedal cycle in traffic accident, initial encounter"
+373,Skidoo,48,Magnetic Resonance Imaging (MRI) of Bilateral Kidneys using Other Contrast,"Other injury of other muscle(s) and tendon(s) of posterior muscle group at lower leg level, left leg"
+374,Dynabox,68,"Removal of Autologous Tissue Substitute from Vulva, Open Approach","Exposure to sofa fire due to unspecified burning material, sequela"
+375,Divanoodle,25,Plain Radiography of Gallbladder and Bile Ducts using Other Contrast,"Stromal corneal pigmentations, right eye"
+376,Reallinks,91,"Dilation of Left Anterior Tibial Artery, Bifurcation, with Two Drug-eluting Intraluminal Devices, Open Approach","Displaced apophyseal fracture of right femur, subsequent encounter for open fracture type I or II with nonunion"
+377,Layo,36,Osteopathic Treatment of Lower Extremities using Fascial Release,Benign neoplasm of other specified endocrine glands
+378,Edgeclub,82,"Supplement Left Brachial Artery with Nonautologous Tissue Substitute, Open Approach","Nondisplaced fracture of posterior wall of right acetabulum, sequela"
+379,Mycat,18,"Removal of Infusion Device from Testis, Via Natural or Artificial Opening","Person injured while boarding or alighting from other special all-terrain or other off-road motor vehicle, sequela"
+380,Dynazzy,26,"Excision of Right Thyroid Artery, Percutaneous Endoscopic Approach","Abrasion, right lesser toe(s), subsequent encounter"
+381,Eayo,78,"Reposition Right Temporal Bone with Internal Fixation Device, Open Approach",Dining room in other specified residential institution as the place of occurrence of the external cause
+382,Zava,31,"Fluoroscopy of Thoracic Aorta using Low Osmolar Contrast, Laser Intraoperative","Superficial foreign body, unspecified knee"
+383,Voolia,46,"Drainage of Right Ureter with Drainage Device, Via Natural or Artificial Opening","Sprain of unspecified ligament of unspecified ankle, subsequent encounter"
+384,Roombo,98,"Revision of Nonautologous Tissue Substitute in Coccyx, Open Approach","Partial traumatic amputation of left shoulder and upper arm, level unspecified, sequela"
+385,Mita,76,"Drainage of Lingula Bronchus with Drainage Device, Via Natural or Artificial Opening Endoscopic","Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified"
+386,Kaymbo,72,"Removal of Interbody Fusion Device from Thoracic Vertebral Joint, Percutaneous Endoscopic Approach","Displaced fracture of lesser trochanter of unspecified femur, initial encounter for closed fracture"
+387,Dabfeed,97,Light Therapy,"Injury of femoral nerve at hip and thigh level, unspecified leg, subsequent encounter"
+388,Skyvu,19,"Replacement of Lumbosacral Joint with Autologous Tissue Substitute, Open Approach",Inhalant dependence with inhalant-induced psychotic disorder
+389,Edgeblab,98,"Magnetic Resonance Imaging (MRI) of Right and Left Heart using Other Contrast, Unenhanced and Enhanced","Other superficial bite of left ring finger, sequela"
+390,Yodo,17,"Dilation of Right Kidney Pelvis, Open Approach","Open bite of unspecified buttock, initial encounter"
+391,Skilith,11,"Supplement Aortic Valve created from Truncal Valve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach","Person on outside of car injured in noncollision transport accident in nontraffic accident, sequela"
+392,Rhycero,35,"Reposition Right Foot Artery, Percutaneous Approach","Varus deformity, not elsewhere classified, right hip"
+393,Vinder,57,"Excision of Intracranial Vein, Percutaneous Endoscopic Approach, Diagnostic","Polyhydramnios, first trimester, fetus 5"
+394,Fanoodle,72,Hyperthermia of Mouth,"Salter-Harris Type III physeal fracture of unspecified metatarsal, subsequent encounter for fracture with malunion"
+395,Eadel,41,Plaque Radiation of Jejunum,"Chronic gout due to renal impairment, left hip, with tophus (tophi)"
+396,Vimbo,37,"Revision of Contraceptive Device in Trunk Subcutaneous Tissue and Fascia, External Approach",Other eating disorders
+397,Brainverse,1,"Drainage of Left Main Bronchus with Drainage Device, Open Approach",Organic azoospermia
+398,Kanoodle,99,"Repair Left Lower Leg Tendon, Percutaneous Approach","Underdosing of other psychotropic drugs, subsequent encounter"
+399,Layo,93,"Bypass Portal Vein to Right Renal Vein with Autologous Tissue Substitute, Open Approach","Poisoning by cephalosporins and other beta-lactam antibiotics, undetermined"
+400,Dabshots,75,Change Pressure Dressing on Right Inguinal Region,"Other cervical disc displacement, mid-cervical region"
+401,Dynabox,90,"Occlusion of Ileum with Intraluminal Device, Open Approach","Other physeal fracture of lower end of radius, right arm"
+402,Oyondu,94,"Introduction of Local Anesthetic into Subcutaneous Tissue, Percutaneous Approach",External constriction of left front wall of thorax
+403,Tazz,46,"Dilation of Left Kidney Pelvis, Percutaneous Approach","Blister (nonthermal) of left ear, sequela"
+404,Lazz,14,"Detachment at Left Little Finger, Mid, Open Approach","Other tear of unspecified meniscus, current injury, unspecified knee, initial encounter"
+405,Shuffledrive,89,"Revision of Synthetic Substitute in Spinal Cord, Open Approach",Complications of reattached (part of) right upper extremity
+406,Skynoodle,2,"Reposition Left Ulna with Internal Fixation Device, Open Approach","Triplets, all liveborn"
+407,Abatz,8,"Drainage of Right Temporal Bone, Open Approach","Underdosing of antimycobacterial drugs, sequela"
+408,Oodoo,40,"Removal of Drainage Device from Left Knee Joint, Percutaneous Approach","Gout due to renal impairment, elbow"
+409,Quire,52,"Occlusion of Right Greater Saphenous Vein with Extraluminal Device, Percutaneous Approach","Rheumatoid arthritis without rheumatoid factor, hip"
+410,Youtags,74,"Insertion of Infusion Device into Testis, Via Natural or Artificial Opening Endoscopic","Laceration of extensor or abductor muscles, fascia and tendons of right thumb at forearm level, sequela"
+411,Trilith,14,"Excision of Left Hip Joint, Open Approach","Displaced fracture of distal phalanx of right lesser toe(s), initial encounter for open fracture"
+412,Skaboo,10,"Removal of Infusion Device from Bladder, External Approach","Stress fracture, pelvis, initial encounter for fracture"
+413,Camimbo,9,"Repair Left Lobe Liver, Open Approach",Angiodysplasia of colon without hemorrhage
+414,Linklinks,91,"Revision of Intraluminal Device in Cisterna Chyli, Open Approach","Displaced oblique fracture of shaft of humerus, unspecified arm, subsequent encounter for fracture with nonunion"
+415,Skilith,92,"Revision of Infusion Device in Cervicothoracic Vertebral Disc, Open Approach","Corrosion of second degree back of right hand, subsequent encounter"
+416,Cogilith,29,"Destruction of Left Ulna, Percutaneous Approach",Benign lipomatous neoplasm of skin and subcutaneous tissue of unspecified sites
+417,Yodoo,41,Fluoroscopy of Bilateral Common Carotid Arteries using Other Contrast,"Coma scale, eyes open, never, at hospital admission"
+418,Myworks,24,"Excision of Right Knee Bursa and Ligament, Open Approach","Laceration without foreign body of unspecified cheek and temporomandibular area, subsequent encounter"
+419,Mita,80,"Drainage of Right Middle Lobe Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic","Displaced fracture of neck of first metacarpal bone, right hand, subsequent encounter for fracture with delayed healing"
+420,Ntag,90,"Inspection of Oral Cavity and Throat, Percutaneous Approach","Drowning and submersion due to being washed overboard from fishing boat, sequela"
+421,Quinu,42,"Excision of Prepuce, Percutaneous Endoscopic Approach, Diagnostic","Skeletal fluorosis, other site"
+422,Innotype,94,"Revision of Synthetic Substitute in Right Pleural Cavity, Percutaneous Approach","Displacement of implanted urinary sphincter, subsequent encounter"
+423,Jabberbean,49,"Occlusion of Head Lymphatic with Intraluminal Device, Open Approach","Laceration of dorsal artery of unspecified foot, sequela"
+424,Riffpedia,10,"Drainage of Lumbar Spinal Cord, Percutaneous Endoscopic Approach, Diagnostic","Other secondary gout, left wrist"
+425,Dazzlesphere,11,"Excision of Left Hepatic Duct, Open Approach","Nondisplaced segmental fracture of shaft of right fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+426,Wikibox,29,"Supplement Left Elbow Bursa and Ligament with Autologous Tissue Substitute, Open Approach","Unspecified fracture of shaft of unspecified fibula, subsequent encounter for closed fracture with delayed healing"
+427,Yadel,4,Fluoroscopy of Right Upper Extremity Veins using Low Osmolar Contrast,"Other fracture of lower end of right tibia, sequela"
+428,Oozz,20,"Repair Face, Open Approach",Atherosclerosis of nonbiological bypass graft(s) of the extremities
+429,Brainlounge,54,"Supplement Left Hepatic Duct with Synthetic Substitute, Percutaneous Approach","Unspecified superficial injury of unspecified finger, initial encounter"
+430,Rhybox,46,"Extirpation of Matter from Left Tarsal, Percutaneous Endoscopic Approach",Nondisplaced oblique fracture of shaft of unspecified tibia
+431,Mymm,56,"Supplement Left External Carotid Artery with Autologous Tissue Substitute, Percutaneous Approach","Traumatic rupture of volar plate of right index finger at metacarpophalangeal and interphalangeal joint, initial encounter"
+432,Skibox,51,"Bypass Left Common Iliac Artery to Bilateral Renal Artery, Open Approach","Anaplastic large cell lymphoma, ALK-positive, intrathoracic lymph nodes"
+433,Blogpad,71,"Bypass Left Femoral Vein to Lower Vein with Autologous Tissue Substitute, Open Approach",Meningococcal endocarditis
+434,Skinte,54,"Repair Splenic Artery, Percutaneous Approach","War operations involving other forms of conventional warfare, civilian"
+435,Bubblebox,83,"Drainage of Pelvic Region Subcutaneous Tissue and Fascia, Open Approach","Displaced intertrochanteric fracture of left femur, initial encounter for open fracture type I or II"
+436,Rooxo,68,"Destruction of Left Renal Artery, Percutaneous Endoscopic Approach",Chromosome inversion in normal individual
+437,Janyx,48,"Dilation of Left Posterior Tibial Artery, Bifurcation, with Two Intraluminal Devices, Open Approach",Displaced fracture of cuboid bone of right foot
+438,Wikivu,76,"Repair Right Little Finger, Open Approach",Malignant neoplasm of left ureter
+439,Mydo,3,"Drainage of Right Femoral Artery, Percutaneous Endoscopic Approach, Diagnostic","Other specified injury of deep palmar arch of unspecified hand, sequela"
+440,Roombo,76,"Insertion of Infusion Device into Inferior Mesenteric Vein, Open Approach","Puncture wound with foreign body, unspecified thigh, sequela"
+441,Browsebug,32,"Drainage of Left Greater Saphenous Vein, Percutaneous Approach, Diagnostic","Other fracture of upper end of right ulna, subsequent encounter for open fracture type I or II with nonunion"
+442,Skipfire,71,"Excision of Appendix, Via Natural or Artificial Opening, Diagnostic","Nondisplaced segmental fracture of shaft of unspecified femur, subsequent encounter for open fracture type I or II with delayed healing"
+443,Photobean,50,"Supplement Left Toe Phalanx with Synthetic Substitute, Percutaneous Endoscopic Approach","Malignant neoplasm of gum, unspecified"
+444,Babbleblab,46,"Destruction of Dura Mater, Open Approach",Other cervical disc degeneration at C5-C6 level
+445,Rhyzio,9,"Transfer Left Hand Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach","Perforation due to foreign body accidentally left in body following removal of catheter or packing, subsequent encounter"
+446,Yakidoo,45,"Extirpation of Matter from Right Retinal Vessel, Percutaneous Approach","Other fracture of lower end of left femur, subsequent encounter for closed fracture with delayed healing"
+447,Youopia,21,"Removal of Radioactive Element from Hepatobiliary Duct, Open Approach","Nondisplaced supracondylar fracture with intracondylar extension of lower end of left femur, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+448,Jamia,17,"Removal of Internal Fixation Device from Left Metacarpal, Open Approach",Displaced intraarticular fracture of left calcaneus
+449,Voonte,47,"Dilation of Splenic Artery with Intraluminal Device, Open Approach","Torus fracture of upper end of unspecified radius, sequela"
+450,Devbug,33,"Repair Hypothalamus, Percutaneous Approach","Unspecified injury of unspecified vertebral artery, initial encounter"
+451,Muxo,18,"Repair Small Intestine, Open Approach","Salter-Harris Type IV physeal fracture of lower end of humerus, left arm, initial encounter for closed fracture"
+452,Demizz,51,"Revision of Drainage Device in Right Shoulder Joint, Percutaneous Approach","Corrosion of first degree of shoulder and upper limb, except wrist and hand"
+453,Flipopia,64,"Bypass Right Common Iliac Artery to Bilateral External Iliac Arteries with Autologous Arterial Tissue, Open Approach",Other psychoactive substance abuse with other psychoactive substance-induced disorders
+454,Tagopia,98,"Extirpation of Matter from Right Carpal, Open Approach","Other fracture of right patella, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+455,Shuffledrive,89,"Range of Motion and Joint Mobility Treatment of Integumentary System - Lower Back / Lower Extremity using Assistive, Adaptive, Supportive or Protective Equipment","Person on outside of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus in traffic accident, subsequent encounter"
+456,Thoughtworks,95,"Dilation of Right Hand Artery with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach",Other injury of muscle and tendon of front wall of thorax
+457,Kwimbee,44,"Insertion of Endobronchial Valve into Left Lower Lobe Bronchus, Open Approach","Genital varices in pregnancy, second trimester"
+458,Tambee,69,Plain Radiography of Superior Mesenteric Artery using Other Contrast,Anisometropia and aniseikonia
+459,Riffpath,63,"Supplement Right Abdomen Tendon with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach","Fracture of other part of scapula, right shoulder, initial encounter for open fracture"
+460,Jamia,36,"Removal of Drainage Device from Left Elbow Joint, External Approach",Observation and evaluation of newborn for suspected genetic condition ruled out
+461,Brightdog,66,"Dilation of Right External Jugular Vein, Percutaneous Endoscopic Approach","Person boarding or alighting a car injured in collision with two- or three-wheeled motor vehicle, sequela"
+462,Buzzster,35,"Dilation of Left Temporal Artery, Bifurcation, with Two Intraluminal Devices, Open Approach","Displaced fracture of shaft of fourth metacarpal bone, left hand, subsequent encounter for fracture with delayed healing"
+463,Dablist,24,"Drainage of Right External Iliac Vein with Drainage Device, Percutaneous Endoscopic Approach",Neonatal obstruction of right nasolacrimal duct
+464,Divanoodle,43,"Dilation of Left Kidney Pelvis, Percutaneous Endoscopic Approach","Open bite of right great toe without damage to nail, initial encounter"
+465,Edgepulse,6,"Excision of Right Upper Femur, Open Approach","Cervical disc disorder, unspecified, unspecified cervical region"
+466,Meevee,39,"Dilation of Left Colic Artery, Bifurcation, Percutaneous Approach",Other complications of foreign body accidentally left in body following infusion or transfusion
+467,Vimbo,7,"Bypass Right Ventricle to Left Pulmonary Artery, Open Approach","Puncture wound without foreign body, right ankle, sequela"
+468,Quamba,22,"Removal of Radioactive Element from Abdominal Wall, Percutaneous Approach","Corrosion of first degree of unspecified forearm, subsequent encounter"
+469,Tazz,81,"Introduction of Other Anti-infective into Lower GI, Via Natural or Artificial Opening",Disorders of optic chiasm in (due to) inflammatory disorders
+470,Teklist,83,"Restriction of Accessory Pancreatic Duct with Intraluminal Device, Percutaneous Endoscopic Approach","Unspecified injury of flexor muscle, fascia and tendon of right middle finger at forearm level, subsequent encounter"
+471,Quinu,62,"Revision of Extraluminal Device in Trachea, Open Approach","Major laceration of head of pancreas, subsequent encounter"
+472,Agivu,34,"Fusion of Left Metatarsal-Phalangeal Joint with Internal Fixation Device, Open Approach","Nondisplaced pilon fracture of left tibia, subsequent encounter for closed fracture with nonunion"
+473,Quaxo,16,"Removal of External Fixation Device from Right Metacarpal, Percutaneous Approach","Contact with hot food, subsequent encounter"
+474,Divavu,2,"Removal of Nonautologous Tissue Substitute from Prostate and Seminal Vesicles, Via Natural or Artificial Opening Endoscopic","Encounter for screening for nutritional, metabolic and other endocrine disorders"
+475,JumpXS,70,"Revision of Nonautologous Tissue Substitute in Right Upper Extremity, Percutaneous Endoscopic Approach","Driver of pick-up truck or van injured in collision with car, pick-up truck or van in traffic accident"
+476,Vipe,71,"Replacement of Left Eye with Synthetic Substitute, Percutaneous Approach","Poisoning by oral contraceptives, accidental (unintentional), initial encounter"
+477,Twimm,88,"Extirpation of Matter from Right Hip Joint, Open Approach","Passenger of special industrial vehicle injured in nontraffic accident, initial encounter"
+478,Npath,69,"Excision of Left Femoral Shaft, Percutaneous Approach, Diagnostic","Displaced fracture of greater trochanter of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+479,Rhyloo,26,"Dilation of Left Hand Artery with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach","Nondisplaced transverse fracture of unspecified patella, subsequent encounter for closed fracture with routine healing"
+480,Twitterbridge,37,"Insertion of Internal Fixation Device into Right Maxilla, Percutaneous Approach","Other specified injury of unspecified blood vessel at forearm level, left arm, subsequent encounter"
+481,Realbuzz,72,"Extirpation of Matter from Left Abdomen Muscle, Percutaneous Endoscopic Approach","Nondisplaced fracture of base of other metacarpal bone, initial encounter for closed fracture"
+482,Flipopia,60,"Supplement Left Metacarpocarpal Joint with Autologous Tissue Substitute, Open Approach","Other superficial bite of lower back and pelvis, subsequent encounter"
+483,Kwideo,40,"Excision of Left Humeral Head, Percutaneous Approach",Sprain of metacarpophalangeal joint of thumb
+484,Omba,39,"Drainage of Right Femoral Region, Open Approach, Diagnostic","Laceration without foreign body, unspecified hip, initial encounter"
+485,Browsebug,19,"Drainage of Right Femoral Region, Percutaneous Endoscopic Approach, Diagnostic",Puncture wound without foreign body of vagina and vulva
+486,Chatterpoint,74,"Revision of Autologous Tissue Substitute in Right Rib, Percutaneous Endoscopic Approach","Personal history of (corrected) congenital malformations of integument, limbs and musculoskeletal system"
+487,Tazz,47,Sensory Awareness/Processing/Integrity Assessment of Integumentary System - Whole Body using Other Equipment,"Burn due to localized fire on board unspecified watercraft, subsequent encounter"
+488,Babbleset,66,"Removal of Drainage Device from Right Metatarsal-Phalangeal Joint, Percutaneous Approach",Other chronic pain
+489,Kazio,57,"Repair Left Mastoid Sinus, Open Approach",Machupo hemorrhagic fever
+490,Kwideo,50,"Extirpation of Matter from Left Eustachian Tube, Via Natural or Artificial Opening","Scarlet fever, uncomplicated"
+491,Ainyx,73,Fluoroscopy of Spinal Cord,"Strain of muscle(s) and tendon(s) of anterior muscle group at lower leg level, left leg, subsequent encounter"
+492,Jabbertype,33,"Drainage of Left Thorax Muscle, Percutaneous Endoscopic Approach, Diagnostic","Nondisplaced fracture of third metatarsal bone, left foot, subsequent encounter for fracture with routine healing"
+493,Reallinks,76,Planar Nuclear Medicine Imaging of Lungs and Bronchi using Other Radionuclide,"Nondisplaced fracture of right radial styloid process, subsequent encounter for open fracture type I or II with delayed healing"
+494,Zoomcast,96,"Drainage of Left Upper Femur with Drainage Device, Open Approach","Displaced dome fracture of unspecified talus, subsequent encounter for fracture with routine healing"
+495,Zoomdog,90,"Bypass Innominate Artery to Left Upper Leg Artery, Open Approach","Unspecified fracture of right lower leg, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+496,Feedbug,12,"Excision of Cecum, Via Natural or Artificial Opening Endoscopic, Diagnostic",Concussion
+497,Photolist,28,"Insertion of Internal Fixation Device into Left Carpal Joint, Percutaneous Endoscopic Approach","Puncture wound with foreign body of right ear, sequela"
+498,Kwilith,78,"Insertion of Internal Fixation Device into Thoracolumbar Vertebral Joint, Open Approach","Poisoning by skeletal muscle relaxants [neuromuscular blocking agents], undetermined"
+499,Edgeclub,48,"Insertion of Internal Fixation Device into Left Sternoclavicular Joint, Percutaneous Endoscopic Approach","Displaced other extraarticular fracture of right calcaneus, initial encounter for closed fracture"
+500,Thoughtstorm,65,Tomographic (Tomo) Nuclear Medicine Imaging of Myocardium using Indium 111 (In-111),"Displaced fracture of coracoid process, right shoulder, initial encounter for closed fracture"
+501,Yambee,55,"Supplement Right Brachial Artery with Synthetic Substitute, Open Approach","Salter-Harris Type IV physeal fracture of left calcaneus, initial encounter for open fracture"
+502,Babblestorm,98,"Fragmentation in Bilateral Fallopian Tubes, Percutaneous Approach",Absent bowel sounds
+503,Thoughtstorm,95,"Drainage of Pelvic Cavity with Drainage Device, Open Approach","Partial traumatic amputation at level between knee and ankle, unspecified lower leg, initial encounter"
+504,Agivu,29,"Bursae and Ligaments, Reattachment","Toxic effect of phenol and phenol homologues, accidental (unintentional), subsequent encounter"
+505,Podcat,98,"Alteration of Left Knee Region with Synthetic Substitute, Percutaneous Approach","Effect of air pressure and water pressure, unspecified"
+506,Tagpad,70,"Excision of Hepatic Artery, Open Approach",Encounter for observation and evaluation of newborn for   suspected diseases and conditions ruled out
+507,Izio,82,"Occlusion of Ileocecal Valve, Via Natural or Artificial Opening","Obstructed labor due to compound presentation, fetus 1"
+508,Riffpedia,72,"Insertion of Monitoring Device into Thoracic Aorta, Descending, Percutaneous Approach",Nystagmus
+509,Feedfire,75,"Reposition Right Metacarpal with External Fixation Device, Percutaneous Endoscopic Approach",Unspecified superficial injuries of left front wall of thorax
+510,Topiclounge,52,"Insertion of Internal Fixation Device into Right Patella, Percutaneous Approach","Laceration of axillary artery, unspecified side, subsequent encounter"
+511,Feedfish,98,"Restriction of Left Upper Lobe Bronchus, Open Approach","Unspecified superficial injury of unspecified elbow, sequela"
+512,Meemm,84,"Excision of Cerebral Ventricle, Percutaneous Endoscopic Approach","Smith's fracture of unspecified radius, subsequent encounter for open fracture type I or II with nonunion"
+513,Rooxo,93,"Excision of Pulmonary Trunk, Percutaneous Endoscopic Approach",Unspecified injury of unspecified blood vessel at ankle and foot level
+514,Livepath,34,"Excision of Right Acetabulum, Open Approach",Frostbite with tissue necrosis of finger(s)
+515,Buzzbean,33,"Insertion of Pacemaker, Single Chamber into Chest Subcutaneous Tissue and Fascia, Open Approach",Psychological abuse complicating the puerperium
+516,Linkbridge,2,"Drainage of Left Maxillary Sinus with Drainage Device, Percutaneous Approach","Injury of median nerve at upper arm level, left arm"
+517,Blogtag,31,"Supplement Right Palatine Bone with Synthetic Substitute, Percutaneous Endoscopic Approach","Unspecified injury of flexor muscle, fascia and tendon of left index finger at forearm level, sequela"
+518,Skilith,17,"Excision of Brachial Plexus, Percutaneous Endoscopic Approach",Pain in lower leg
+519,Rhyloo,71,"Removal of Synthetic Substitute from Right Hip Joint, Percutaneous Endoscopic Approach","Effects of abnormal gravitation [G] forces, initial encounter"
+520,Kamba,65,"Excision of Sacrum, Percutaneous Approach, Diagnostic","Osteitis deformans in neoplastic diseases, multiple sites"
+521,Wikivu,31,"Transfer Right Upper Leg Subcutaneous Tissue and Fascia with Skin, Subcutaneous Tissue and Fascia, Open Approach","Corrosion of second degree of right ear [any part, except ear drum]"
+522,Jaxnation,86,"Release Cervicothoracic Vertebral Joint, Percutaneous Approach",Nondisplaced simple supracondylar fracture without intercondylar fracture of unspecified humerus
+523,Eire,79,"Chiropractic Manipulation of Abdomen, Long and Short Lever Specific Contact","Underdosing of other antiprotozoal drugs, sequela"
+524,Brainverse,14,"Inspection of Left Sternoclavicular Joint, Open Approach","Displaced fracture of medial malleolus of unspecified tibia, initial encounter for open fracture type I or II"
+525,Feedbug,74,"Excision of Right Finger Phalanx, Open Approach","Puncture wound of abdominal wall without foreign body, right upper quadrant without penetration into peritoneal cavity, initial encounter"
+526,Zoovu,48,"Dilation of Left Subclavian Artery with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach","Laceration with foreign body, unspecified foot, subsequent encounter"
+527,Pixonyx,2,"Repair Left Hip Bursa and Ligament, Percutaneous Endoscopic Approach","Other polycystic kidney, infantile type"
+528,Dynava,87,"Extirpation of Matter from Right Temporal Artery, Bifurcation, Percutaneous Approach","Medial subluxation of left ulnohumeral joint, initial encounter"
+529,Jaxbean,6,"Drainage of Stomach, Pylorus, Percutaneous Approach, Diagnostic","Mature T/NK-cell lymphomas, unspecified, lymph nodes of head, face, and neck"
+530,Quatz,51,"Extirpation of Matter from Penis, External Approach","Poisoning by unspecified antiepileptic and sedative-hypnotic drugs, accidental (unintentional)"
+531,Omba,61,"Repair Face, Percutaneous Endoscopic Approach","Open bite of unspecified thumb with damage to nail, subsequent encounter"
+532,Skyba,41,"Replacement of Right Upper Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach","Nondisplaced transverse fracture of shaft of right tibia, subsequent encounter for open fracture type I or II with delayed healing"
+533,Yoveo,19,"Reposition Left Radius with Monoplanar External Fixation Device, Open Approach",Geniculate ganglionitis
+534,Topicware,1,"Replacement of Right Cornea with Nonautologous Tissue Substitute, External Approach","Injury of muscle, fascia and tendon at neck level"
+535,Zoomlounge,82,"Repair Left Hand Bursa and Ligament, Percutaneous Approach","Puncture wound with foreign body of unspecified great toe without damage to nail, initial encounter"
+536,Riffpath,50,"Drainage of Pharynx with Drainage Device, Percutaneous Endoscopic Approach","Superficial frostbite of other part of head, subsequent encounter"
+537,Oodoo,82,"Transfer Tongue, Palate, Pharynx Muscle, Open Approach","Other secondary chronic gout, right hip"
+538,Trudeo,45,"Removal of Nonautologous Tissue Substitute from Lower Artery, Percutaneous Endoscopic Approach","Military operations involving flamethrower, civilian"
+539,Ozu,65,"Extirpation of Matter from Right Sacroiliac Joint, Open Approach","Other foreign object in larynx causing other injury, subsequent encounter"
+540,Babbleblab,7,"Supplement Left Wrist Joint with Synthetic Substitute, Percutaneous Endoscopic Approach",Cardiac tamponade
+541,Realcube,48,"Extirpation of Matter from Left Lacrimal Bone, Percutaneous Endoscopic Approach","Other specified pregnancy related conditions, unspecified trimester"
+542,Flashspan,71,"Drainage of Left Testis, Percutaneous Endoscopic Approach, Diagnostic",Pregnancy with inconclusive fetal viability
+543,Mybuzz,22,"Occlusion of Right Axillary Artery with Intraluminal Device, Percutaneous Endoscopic Approach",Diseases of the skin and subcutaneous tissue complicating childbirth
+544,Twiyo,2,"Drainage of Transverse Colon with Drainage Device, Via Natural or Artificial Opening","Puncture wound with foreign body of unspecified part of head, sequela"
+545,Eazzy,55,"Bypass Left Anterior Chamber to Sclera with Nonautologous Tissue Substitute, Percutaneous Approach",Rheumatoid lung disease with rheumatoid arthritis of elbow
+546,Voonix,44,"Supplement Upper Esophagus with Nonautologous Tissue Substitute, Open Approach","Other superficial bite, unspecified lower leg"
+547,Quinu,21,"Removal of Infusion Device from Left Finger Phalangeal Joint, Open Approach","Gastric contents in bronchus causing asphyxiation, sequela"
+548,Gevee,59,"Resection of Right Tibia, Open Approach",Other fracture of shaft of right tibia
+549,Rhyloo,81,"Resection of Left Hand Tendon, Percutaneous Endoscopic Approach","Partial traumatic transphalangeal amputation of right thumb, initial encounter"
+550,Oodoo,24,"Measurement of Cardiac Electrical Activity, External Approach",Acute pulmonary insufficiency following thoracic surgery
+551,Zoomdog,66,"Extirpation of Matter from Left Parotid Gland, Open Approach","Leakage of coronary artery bypass graft, subsequent encounter"
+552,Chatterpoint,46,"Insertion of Tissue Expander into Right Lower Leg Subcutaneous Tissue and Fascia, Open Approach","Laceration with foreign body of unspecified lesser toe(s) with damage to nail, subsequent encounter"
+553,Riffwire,38,"Supplement Right Thumb with Autologous Tissue Substitute, Percutaneous Endoscopic Approach","Accidental malfunction of machine gun, subsequent encounter"
+554,Riffpedia,82,"Repair Left Vocal Cord, Percutaneous Endoscopic Approach","Toxic effect of ingested mushrooms, undetermined, initial encounter"
+555,Photobug,76,"Bypass Coronary Artery, Three Arteries from Coronary Artery, Percutaneous Endoscopic Approach","Anesthesia and hypoesthesia of cornea, unspecified eye"
+556,Yabox,44,"Removal of Drainage Device from Upper Intestinal Tract, Percutaneous Endoscopic Approach","Person boarding or alighting a pedal cycle injured in collision with other pedal cycle, sequela"
+557,Oyonder,31,"Revision of Infusion Device in Left Temporomandibular Joint, Open Approach",Contusion of little finger with damage to nail
+558,Linkbridge,81,"Dilation of Right Popliteal Artery, Bifurcation, with Three Drug-eluting Intraluminal Devices, Open Approach","Infective myositis, left ankle"
+559,Mydo,52,"Bypass Descending Colon to Descending Colon with Synthetic Substitute, Percutaneous Endoscopic Approach","Displaced fracture of lower epiphysis (separation) of right femur, subsequent encounter for closed fracture with delayed healing"
+560,Thoughtblab,66,Wound Management Treatment of Integumentary System - Upper Back / Upper Extremity using Electrotherapeutic Equipment,"Nondisplaced comminuted fracture of shaft of ulna, right arm"
+561,Blogpad,57,"Release Left Foot Bursa and Ligament, Open Approach","Hemarthrosis, unspecified foot"
+562,Ainyx,47,"Bypass Splenic Vein to Lower Vein, Percutaneous Endoscopic Approach",Other and unspecified disorders of circulatory system
+563,Vinte,49,"Drainage of Upper Gingiva with Drainage Device, Percutaneous Approach","Other mechanical complication of aortic (bifurcation) graft (replacement), subsequent encounter"
+564,Browsezoom,93,"Transfer Glossopharyngeal Nerve to Olfactory Nerve, Percutaneous Endoscopic Approach",Rheumatoid polyneuropathy with rheumatoid arthritis of shoulder
+565,Rhyloo,39,"Removal of Spacer from Right Carpal Joint, Open Approach","Pathological fracture, unspecified foot, initial encounter for fracture"
+566,Skinix,72,"Resection of Left Ovary, Via Natural or Artificial Opening Endoscopic",Other nondisplaced fracture of fourth cervical vertebra
+567,Omba,58,"Extraction of Optic Nerve, Percutaneous Approach",Car driver injured in collision with pedestrian or animal in traffic accident
+568,Jabberbean,42,"Excision of Bilateral Vas Deferens, Open Approach, Diagnostic","Injury of cutaneous sensory nerve at shoulder and upper arm level, unspecified arm, initial encounter"
+569,Shuffledrive,35,"Release Pancreatic Duct, Via Natural or Artificial Opening Endoscopic","Burn of second degree of multiple sites of unspecified shoulder and upper limb, except wrist and hand"
+570,Realmix,55,"Reposition Right Ulna with Intramedullary Internal Fixation Device, Percutaneous Approach","Unspecified open wound, left lower leg"
+571,Realpoint,5,"Extirpation of Matter from Right Innominate Vein, Percutaneous Approach","Displaced fracture of medial condyle of left humerus, subsequent encounter for fracture with routine healing"
+572,Twimbo,6,"Resection of Hard Palate, External Approach","Pathological fracture in neoplastic disease, left foot, initial encounter for fracture"
+573,Divavu,30,Therapeutic Exercise Treatment of Integumentary System - Upper Back / Upper Extremity using Aerobic Endurance and Conditioning Equipment,"Corneal deposits in metabolic disorders, left eye"
+574,Tagopia,56,"Revision of Synthetic Substitute in Right Eye, External Approach",Unspecified occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+575,Fatz,50,"Destruction of Nasal Turbinate, Percutaneous Approach",Hemorrhage of incontinent external stoma of urinary tract
+576,Meetz,52,"Extirpation of Matter from Left Palatine Bone, Percutaneous Endoscopic Approach",Subluxation and dislocation of unspecified thoracic vertebra
+577,Thoughtworks,21,"Fusion of Left Temporomandibular Joint with Internal Fixation Device, Open Approach","Unspecified open wound of right front wall of thorax without penetration into thoracic cavity, initial encounter"
+578,Twimbo,16,"Excision of Right Innominate Vein, Open Approach, Diagnostic","Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes"
+579,Thoughtmix,24,"Restriction of Pancreatic Duct, Via Natural or Artificial Opening Endoscopic",Burn of unspecified degree of unspecified toe(s) (nail)
+580,Blogtag,1,"Fusion of Occipital-cervical Joint using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2","Partial traumatic transphalangeal amputation of unspecified finger, sequela"
+581,Janyx,26,"Excision of Left Main Bronchus, Via Natural or Artificial Opening Endoscopic",Unspecified laceration of spleen
+582,Abata,66,"Bypass Left Vertebral Vein to Upper Vein with Nonautologous Tissue Substitute, Open Approach",Abnormal innervation syndrome
+583,Npath,67,"Dilation of Left Axillary Artery, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Approach","Fall on board fishing boat, sequela"
+584,Topdrive,95,"Transfer Left Upper Arm Muscle with Skin, Open Approach","Unspecified open wound of left little finger without damage to nail, subsequent encounter"
+585,Shuffletag,45,"Supplement Left Middle Ear with Nonautologous Tissue Substitute, Open Approach","Corrosion of first degree of unspecified hand, unspecified site, subsequent encounter"
+586,Yabox,20,"Dilation of Left Radial Artery with Four or More Intraluminal Devices, Open Approach","Other specified injury of brachial artery, unspecified side, initial encounter"
+587,Myworks,40,"Insertion of External Fixation Device into Right Metatarsal-Phalangeal Joint, Percutaneous Endoscopic Approach","Pathological fracture, left tibia, initial encounter for fracture"
+588,Zoozzy,27,"Monitoring of Peripheral Nervous Electrical Activity, Intraoperative, Percutaneous Approach",Hemophthalmos
+589,Thoughtbridge,85,"Drainage of Left Hand Artery, Percutaneous Endoscopic Approach",Non-pressure chronic ulcer of other part of unspecified foot
+590,Midel,90,"Extirpation of Matter from Left Large Intestine, Via Natural or Artificial Opening",Cyclophoria
+591,Jayo,36,"Introduction of Monoclonal Antibody into Biliary and Pancreatic Tract, Percutaneous Approach","Unspecified open wound of right shoulder, initial encounter"
+592,Snaptags,6,"Inspection of Upper Tendon, Open Approach","Displaced apophyseal fracture of right femur, sequela"
+593,Meedoo,62,"Alteration of Upper Back with Autologous Tissue Substitute, Percutaneous Endoscopic Approach","Supervision of pregnancy with history of pre-term labor, second trimester"
+594,Skipstorm,52,"Bypass Coronary Artery, One Artery from Aorta with Zooplastic Tissue, Open Approach","Partial traumatic amputation of left foot, level unspecified, initial encounter"
+595,Zoomzone,69,"Release Inferior Mesenteric Vein, Percutaneous Endoscopic Approach","Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter"
+596,Thoughtbridge,8,"Dilation of Left Temporal Artery, Bifurcation, with Intraluminal Device, Percutaneous Approach",Encounter for adjustment or removal of unspecified breast implant
+597,Topicstorm,77,"Dilation of Tricuspid Valve, Percutaneous Approach","Dislocation of metacarpophalangeal joint of right ring finger, initial encounter"
+598,Rhycero,22,"Release Left Upper Extremity Lymphatic, Percutaneous Endoscopic Approach","Nondisplaced fracture of second metatarsal bone, right foot, subsequent encounter for fracture with routine healing"
+599,Shuffletag,55,"Extirpation of Matter from Left Trunk Tendon, Percutaneous Approach","Puncture wound without foreign body of other finger with damage to nail, initial encounter"
+600,Dynazzy,45,"Mouth and Throat, Alteration",Ischiocapsular ligament sprain of left hip
+601,Zoomlounge,68,"Bypass Left External Iliac Artery to Left Femoral Artery with Autologous Arterial Tissue, Open Approach","Toxic effect of carbon dioxide, undetermined, sequela"
+602,Feedmix,80,"Destruction of Left Internal Mammary Lymphatic, Percutaneous Endoscopic Approach",Corrosion of third degree of left palm
+603,Einti,37,Therapeutic Exercise Treatment of Musculoskeletal System - Lower Back / Lower Extremity using Other Equipment,"Laceration of unspecified blood vessel at lower leg level, right leg, initial encounter"
+604,Pixope,42,"Revision of Nonautologous Tissue Substitute in Right Knee Joint, External Approach","Adverse effect of other antiepileptic and sedative-hypnotic drugs, initial encounter"
+605,Youfeed,95,Plain Radiography of Left Shoulder using Low Osmolar Contrast,Nondisplaced fracture of medial phalanx of finger
+606,Eimbee,21,"Extirpation of Matter from Left Ureter, Via Natural or Artificial Opening",Fracture of corpus cavernosum penis
+607,Skimia,3,"Restriction of Left Pulmonary Vein with Extraluminal Device, Percutaneous Endoscopic Approach",Occupant of special vehicle mainly used in agriculture injured in transport accident
+608,Zazio,42,"Extirpation of Matter from Left Peroneal Artery, Percutaneous Endoscopic Approach","Unspecified intracapsular fracture of right femur, initial encounter for open fracture type I or II"
+609,Blogspan,68,"Resection of Left Lacrimal Duct, Via Natural or Artificial Opening",Superficial foreign body of unspecified eyelid and periocular area
+610,Skiba,22,"Excision of Chest Wall, Open Approach, Diagnostic","Nondisplaced posterior arch fracture of first cervical vertebra, subsequent encounter for fracture with nonunion"
+611,Wordware,56,"Insertion of External Fixation Device into Right Pelvic Bone, Percutaneous Endoscopic Approach","Salter-Harris Type I physeal fracture of lower end of unspecified femur, subsequent encounter for fracture with malunion"
+612,Geba,100,"Dilation of Right Common Carotid Artery with Intraluminal Device, Percutaneous Endoscopic Approach","Poisoning by unspecified agents primarily acting on the respiratory system, undetermined, initial encounter"
+613,Devpulse,17,Change Cast on Left Upper Extremity,"Other instability, unspecified ankle"
+614,Zoozzy,46,"Lower Veins, Restriction","Nondisplaced comminuted fracture of shaft of unspecified fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+615,Eayo,1,Computerized Tomography (CT Scan) of Facial Bones using Other Contrast,17 weeks gestation of pregnancy
+616,Ainyx,51,"Destruction of Cerebral Meninges, Open Approach","Cannabis abuse with intoxication, unspecified"
+617,Trunyx,51,"Revision of Internal Fixation Device in Left Metatarsal, Percutaneous Endoscopic Approach",Unspecified open wound of forearm
+618,Skyndu,49,"Revision of Extraluminal Device in Stomach, Open Approach","Torus fracture of upper end of unspecified radius, subsequent encounter for fracture with delayed healing"
+619,Tagcat,49,"Revision of Autologous Tissue Substitute in Lymphatic, Percutaneous Approach",Urethral abscess
+620,Meevee,68,"Dilation of Innominate Artery with Intraluminal Device, Open Approach","Carcinoma in situ of skin of eyelid, including canthus"
+621,Voonder,96,High Dose Rate (HDR) Brachytherapy of Pleura using Palladium 103 (Pd-103),"Adverse effect of insulin and oral hypoglycemic [antidiabetic] drugs, subsequent encounter"
+622,Skiba,65,"Removal of Stimulator Lead from Bladder, Via Natural or Artificial Opening","Nondisplaced comminuted supracondylar fracture without intercondylar fracture of unspecified humerus, subsequent encounter for fracture with routine healing"
+623,Linklinks,76,"Dilation of Left Anterior Tibial Artery with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach","Labor and delivery complicated by other cord complications, fetus 5"
+624,Fiveclub,52,"Excision of Left Maxillary Sinus, Percutaneous Approach, Diagnostic","Nondisplaced oblique fracture of shaft of right femur, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+625,Photobean,84,"Destruction of Left Upper Arm Tendon, Open Approach","Other mechanical complication of prosthetic orbit of right eye, sequela"
+626,Buzzster,93,"Drainage of Bilateral Ureters, Percutaneous Endoscopic Approach, Diagnostic","Dislocation of unspecified interphalangeal joint of right middle finger, initial encounter"
+627,Zoombeat,9,"Insertion of Internal Fixation Device into Right Patella, Open Approach","Assault by being hit or run over by motor vehicle, initial encounter"
+628,Fiveclub,23,"Supplement Cystic Duct with Autologous Tissue Substitute, Percutaneous Approach","Nondisplaced fracture of base of other metacarpal bone, initial encounter for open fracture"
+629,Skinder,33,"Measurement of Respiratory Capacity, Via Natural or Artificial Opening","Unspecified open wound, unspecified hip, initial encounter"
+630,Aimbo,68,"Drainage of Right Lower Extremity, Percutaneous Endoscopic Approach","Poisoning by caffeine, intentional self-harm"
+631,Miboo,15,"Excision of Right Internal Carotid Artery, Percutaneous Endoscopic Approach, Diagnostic","Idiopathic gout, left hip"
+632,Rhyzio,50,"Transfer Right Foot Bursa and Ligament, Percutaneous Endoscopic Approach","Other postprocedural shock, initial encounter"
+633,LiveZ,7,"Introduction of Monoclonal Antibody into Respiratory Tract, Percutaneous Approach",Acute gastroenteropathy due to Norwalk agent and other small round viruses
+634,Realmix,89,"Excision of Left External Iliac Artery, Percutaneous Endoscopic Approach",Personal history of malignant neoplasm of other urinary tract organ
+635,Fadeo,52,"Supplement Right Humeral Shaft with Nonautologous Tissue Substitute, Percutaneous Approach",Pulmonary embolism with acute cor pulmonale
+636,Quinu,61,"Restriction of Ampulla of Vater with Intraluminal Device, Via Natural or Artificial Opening Endoscopic","Laceration of left kidney, unspecified degree, initial encounter"
+637,Meevee,34,"Alteration of Head with Synthetic Substitute, Percutaneous Endoscopic Approach",Varicose veins of left lower extremity with both ulcer of ankle and inflammation
+638,Eare,1,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen and Pelvis using Technetium 99m (Tc-99m),"Laceration with foreign body of left lesser toe(s) without damage to nail, initial encounter"
+639,Vidoo,75,"Bypass Stomach to Cutaneous with Nonautologous Tissue Substitute, Open Approach",Displacement of internal fixation device of bones of foot and toes
+640,Zoombox,100,"Supplement Esophagus with Nonautologous Tissue Substitute, Open Approach","Malocclusion, Angle's class III"
+641,Fadeo,24,"Bypass Lower Esophagus to Jejunum, Via Natural or Artificial Opening Endoscopic","Traumatic rupture of palmar ligament of right ring finger at metacarpophalangeal and interphalangeal joint, subsequent encounter"
+642,Zooxo,34,"Transfusion of Nonautologous Red Blood Cells into Products of Conception, Circulatory, Percutaneous Approach","Other ice-skates accident, subsequent encounter"
+643,Muxo,91,"Drainage of Trachea, Percutaneous Approach","Nondisplaced fracture of navicular [scaphoid] of right foot, subsequent encounter for fracture with nonunion"
+644,Realcube,56,"Bypass Right Common Iliac Artery to Mesenteric Artery, Open Approach","Displaced fracture of lesser trochanter of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+645,Tambee,37,"Extraction of Lower Vein, Percutaneous Approach",Transient alteration of awareness
+646,Buzzshare,62,"Destruction of Right Lobe Liver, Percutaneous Approach","Nondisplaced fracture of lesser tuberosity of right humerus, initial encounter for open fracture"
+647,Flashdog,87,"Release Right External Auditory Canal, Open Approach","Unspecified fracture of lower end of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+648,Ntags,99,"Transfer Right Hand Muscle with Skin, Open Approach",Other rheumatoid arthritis with rheumatoid factor of left knee
+649,Thoughtstorm,94,Plain Radiography of Bilateral Lower Extremity Lymphatics using Low Osmolar Contrast,"Progressive external ophthalmoplegia, unspecified eye"
+650,Topicware,57,"Drainage of Left Shoulder Muscle, Percutaneous Approach","Coma scale, eyes open, spontaneous, at hospital admission"
+651,Quire,22,"Removal of Drainage Device from Cranial Nerve, Open Approach",Anterior subluxation and dislocation of radial head
+652,Shufflebeat,70,Hyperthermia of Gallbladder,"Other fracture of shaft of radius, right arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+653,Skibox,45,"Detachment at Left Lower Arm, Low, Open Approach","Nondisplaced fracture of coronoid process of unspecified ulna, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+654,Fatz,16,"Dilation of Left Internal Mammary Artery, Open Approach","Sclerosing keratitis, bilateral"
+655,Kwilith,86,"Excision of Upper Artery, Open Approach, Diagnostic","Car driver injured in collision with other nonmotor vehicle in nontraffic accident, sequela"
+656,Meembee,1,"Restriction of Left Axillary Vein with Intraluminal Device, Percutaneous Approach","Rupture of synovium, right toe(s)"
+657,Topdrive,75,"Insertion of External Fixation Device into Right Metacarpocarpal Joint, Open Approach","Unspecified traumatic displaced spondylolisthesis of seventh cervical vertebra, sequela"
+658,Zoomcast,51,"Repair Urinary System in Products of Conception, Percutaneous Approach","Unspecified open wound of unspecified part of neck, initial encounter"
+659,Quatz,50,"Removal of Internal Fixation Device from Right Temporomandibular Joint, Percutaneous Endoscopic Approach","Motorcycle passenger injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, subsequent encounter"
+660,Meeveo,54,Therapeutic Exercise Treatment of Respiratory System - Lower Back / Lower Extremity using Mechanical or Electromechanical Equipment,"Other specified complication of cardiac prosthetic devices, implants and grafts, initial encounter"
+661,Meedoo,88,"Supplement Left Main Bronchus with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach","Nondisplaced fracture of distal phalanx of right lesser toe(s), subsequent encounter for fracture with delayed healing"
+662,Quaxo,39,"Excision of Head and Neck Tendon, Open Approach","Unspecified car occupant injured in collision with pick-up truck in traffic accident, sequela"
+663,Eazzy,13,"Excision of Right Vertebral Artery, Percutaneous Approach",Displaced fracture of lateral malleolus of unspecified fibula
+664,Talane,46,"Reposition Right Tibia, Percutaneous Endoscopic Approach",Exposure to melting of other clothing and apparel
+665,Yacero,18,"Excision of Sternum, Open Approach","Other injury of prostate, subsequent encounter"
+666,Ailane,27,"Supplement Uterine Supporting Structure with Autologous Tissue Substitute, Open Approach",Other complications of foreign body accidentally left in body following procedure
+667,Feedbug,72,"Extirpation of Matter from Right External Auditory Canal, Percutaneous Approach","Displaced unspecified fracture of unspecified great toe, subsequent encounter for fracture with delayed healing"
+668,Quinu,80,"Dilation of Right External Iliac Artery, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Approach","Legal intervention involving other specified means, bystander injured, subsequent encounter"
+669,Flashdog,57,"Bypass Duodenum to Cutaneous with Synthetic Substitute, Open Approach","Thrombosis due to genitourinary prosthetic devices, implants and grafts, subsequent encounter"
+670,Tagpad,2,"Revision of Infusion Device in Ureter, External Approach","Salter-Harris Type I physeal fracture of upper end of radius, unspecified arm"
+671,Browseblab,10,"Excision of Right Lacrimal Duct, Percutaneous Approach, Diagnostic","Corrosion of third degree of unspecified multiple fingers (nail), including thumb, subsequent encounter"
+672,Ntags,61,"Dilation of Ileum, Via Natural or Artificial Opening Endoscopic","Burn of first degree of chest wall, sequela"
+673,Skiptube,57,"Revision of Drainage Device in Lower Back, Percutaneous Approach","Poisoning by, adverse effect of and underdosing of unspecified hormone antagonists"
+674,Rhynoodle,98,"Drainage of Right Subclavian Vein, Percutaneous Approach","Nondisplaced fracture of navicular [scaphoid] of unspecified foot, subsequent encounter for fracture with nonunion"
+675,Blogpad,18,"Replacement of Pulmonary Trunk with Autologous Tissue Substitute, Percutaneous Endoscopic Approach","Intermittent hydrarthrosis, unspecified knee"
+676,Voolia,32,"Restriction of Left Common Iliac Artery with Intraluminal Device, Percutaneous Approach","Longitudinal reduction defect of femur, bilateral"
+677,Talane,4,"Computerized Tomography (CT Scan) of Bladder using Other Contrast, Unenhanced and Enhanced","Toxic effect of other specified substances, accidental (unintentional), subsequent encounter"
+678,Miboo,41,"Bypass Left Ulnar Artery to Left Lower Arm Artery with Synthetic Substitute, Open Approach","Poisoning by, adverse effect of and underdosing of butyrophenone and thiothixene neuroleptics"
+679,Skipstorm,96,"Fusion of Left Finger Phalangeal Joint with Internal Fixation Device, Percutaneous Endoscopic Approach",Activities involving computer technology and electronic devices
+680,Fadeo,35,"Dilation of Left Parotid Duct, Open Approach","Salter-Harris Type I physeal fracture of upper end of left femur, subsequent encounter for fracture with nonunion"
+681,Devbug,33,Vocational Counseling,"Unspecified traumatic nondisplaced spondylolisthesis of second cervical vertebra, subsequent encounter for fracture with nonunion"
+682,Tavu,4,"Bypass Left Vas Deferens to Left Epididymis, Percutaneous Endoscopic Approach","Displacement of internal fixation device of right humerus, subsequent encounter"
+683,Agivu,2,"Removal of Drainage Device from Scrotum and Tunica Vaginalis, External Approach",Nondisplaced fracture of posterior process of right talus
+684,Browsetype,85,"Excision of Cisterna Chyli, Open Approach",Insect bite (nonvenomous) of upper arm
+685,Bubbletube,78,"Drainage of Right Femoral Region, Open Approach","Unspecified complication of procedure, initial encounter"
+686,Twinte,28,"Revision of External Fixation Device in Right Pelvic Bone, Open Approach","Unspecified fracture of right calcaneus, subsequent encounter for fracture with delayed healing"
+687,Dynabox,43,"Drainage of Coccyx with Drainage Device, Open Approach","Maternal care for (suspected) damage to fetus by other medical procedures, fetus 5"
+688,Abatz,66,"Removal of Infusion Device from Lymphatic, External Approach","Paralytic calcification and ossification of muscle, left hand"
+689,Mynte,92,"Restriction of Right Internal Iliac Artery with Extraluminal Device, Percutaneous Approach",Other specified injury of anterior tibial artery
+690,Topicshots,61,"Dilation of Left Axillary Artery, Open Approach","Unspecified open wound of left ring finger with damage to nail, initial encounter"
+691,Npath,10,"Dilation of Right Vertebral Vein, Open Approach","Other injury due to other accident to fishing boat, sequela"
+692,Browsezoom,31,"Excision of Left Frontal Sinus, Percutaneous Approach, Diagnostic",Generalized skin eruption due to drugs and medicaments taken internally
+693,Gigaclub,76,"Bypass Right Common Iliac Artery to Left Renal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach",Unspecified subluxation of unspecified wrist and hand
+694,Zoonder,96,"Beam Radiation of Right Breast using Heavy Particles (Protons,Ions)","Scombroid fish poisoning, accidental (unintentional), subsequent encounter"
+695,Realbridge,18,"Bypass Left Kidney Pelvis to Ileum, Percutaneous Endoscopic Approach",Other conditions originating in the perinatal period
+696,Zoovu,51,"Dilation of Right Femoral Artery, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Approach","Unspecified injury of femoral vein at hip and thigh level, right leg, subsequent encounter"
+697,Jamia,44,"Drainage of Right Occipital Bone, Percutaneous Approach","Person on outside of heavy transport vehicle injured in noncollision transport accident in nontraffic accident, subsequent encounter"
+698,Realblab,90,"Drainage of Right Thumb Phalanx, Percutaneous Endoscopic Approach","Kaschin-Beck disease, ankle and foot"
+699,Tagfeed,60,"Removal of Drainage Device from Left Eye, Percutaneous Approach","Other specified injury of intrinsic muscle, fascia and tendon of right thumb at wrist and hand level, sequela"
+700,Zoomzone,37,"Inspection of Left Tarsal Joint, Open Approach",Foreign body in nasal sinus
+701,Midel,83,"Repair Right Metacarpal, Percutaneous Approach","Corrosion of first degree of multiple sites of right ankle and foot, subsequent encounter"
+702,Yodo,61,"Drainage of Left Lesser Saphenous Vein with Drainage Device, Open Approach",Driver of heavy transport vehicle injured in collision with unspecified motor vehicles in nontraffic accident
+703,Wikivu,35,"Drainage of Right Thorax Bursa and Ligament, Percutaneous Endoscopic Approach","Unspecified fracture of upper end of left ulna, subsequent encounter for open fracture type I or II with malunion"
+704,Eayo,90,"Bypass Left Common Carotid Artery to Intracranial Artery, Open Approach","Idiopathic chronic gout, ankle and foot"
+705,Fivebridge,43,"Release Bilateral Adrenal Glands, Open Approach",Mechanical lagophthalmos left lower eyelid
+706,Feedbug,45,"Dilation of Abdominal Aorta, Bifurcation, with Two Intraluminal Devices, Percutaneous Endoscopic Approach","Leakage of femoral arterial graft (bypass), initial encounter"
+707,Blogspan,12,"Reposition Descending Colon, Percutaneous Endoscopic Approach",Minor laceration of head of pancreas
+708,Browsecat,51,"Replacement of Face Subcutaneous Tissue and Fascia with Nonautologous Tissue Substitute, Percutaneous Approach","Unspecified injury of radial artery at wrist and hand level of unspecified arm, sequela"
+709,Einti,83,Low Dose Rate (LDR) Brachytherapy of Soft Palate using Iodine 125 (I-125),Peritoneal adhesions (postprocedural) (postinfection)
+710,Tekfly,81,"Destruction of Perineum Tendon, Percutaneous Approach","Fracture of unspecified part of neck of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+711,Yata,77,"Inspection of Right Hand, External Approach",External constriction of right ring finger
+712,Skivee,43,"Revision of Synthetic Substitute in Upper Intestinal Tract, External Approach","Transient synovitis, left shoulder"
+713,Oyope,89,"Excision of Right Lower Lobe Bronchus, Percutaneous Approach, Diagnostic","Displaced fracture of medial phalanx of right lesser toe(s), subsequent encounter for fracture with nonunion"
+714,Trudoo,17,"Excision of Trachea, Via Natural or Artificial Opening, Diagnostic","Subluxation of right scapula, initial encounter"
+715,Cogibox,61,"Excision of Left Fallopian Tube, Percutaneous Endoscopic Approach, Diagnostic","Unspecified injury of extensor muscle, fascia and tendon of right middle finger at wrist and hand level"
+716,Jatri,42,High Dose Rate (HDR) Brachytherapy of Mouth using Palladium 103 (Pd-103),"Unspecified nondisplaced fracture of surgical neck of left humerus, subsequent encounter for fracture with routine healing"
+717,Kare,37,"Bypass Ileum to Transverse Colon, Open Approach",Osteochondrodysplasia with defects of growth of tubular bones and spine
+718,Rhybox,100,"Urinary System, Occlusion","Other superficial bite of unspecified external genital organs, female, initial encounter"
+719,Dabjam,59,"Repair Splenic Artery, Open Approach",Merkel cell carcinoma of left ear and external auricular canal
+720,Dabshots,19,"Drainage of Left Tarsal Joint with Drainage Device, Percutaneous Approach","Striking against or struck by driver side automobile airbag, sequela"
+721,Skinder,82,"Destruction of Right Internal Jugular Vein, Open Approach","Hemorrhage due to genitourinary prosthetic devices, implants and grafts, sequela"
+722,Fivechat,84,"Drainage of Left Wrist Region, Percutaneous Endoscopic Approach","Corrosion of unspecified degree of multiple sites of right lower limb, except ankle and foot"
+723,Centizu,99,"Excision of Superior Mesenteric Artery, Percutaneous Endoscopic Approach, Diagnostic","Displaced fracture of medial phalanx of right index finger, initial encounter for open fracture"
+724,Digitube,15,"Revision of Drainage Device in Larynx, Percutaneous Approach",Car passenger injured in collision with pedestrian or animal in traffic accident
+725,Vipe,7,"Supplement Right Face Vein with Synthetic Substitute, Percutaneous Endoscopic Approach","Burn of third degree of unspecified knee, subsequent encounter"
+726,Talane,86,"Restriction of Cystic Duct, Percutaneous Endoscopic Approach","Age-related osteoporosis with current pathological fracture, left humerus, initial encounter for fracture"
+727,Gigashots,12,"Fluoroscopy of Right Jugular Veins using Other Contrast, Guidance",Congenital pneumonia due to other organisms
+728,Aimbo,5,"Removal of Zooplastic Tissue from Heart, Percutaneous Approach","Underdosing of phenothiazine antipsychotics and neuroleptics, subsequent encounter"
+729,Vidoo,27,"Repair Right Lower Extremity Bursa and Ligament, Percutaneous Approach","Other specified injury of intercostal blood vessels, unspecified side"
+730,Skynoodle,89,"Restriction of Left Basilic Vein with Intraluminal Device, Percutaneous Approach","Multiple fractures of ribs, right side, initial encounter for closed fracture"
+731,Dabjam,79,"Fusion of Thoracolumbar Vertebral Joint, Posterior Approach, Posterior Column, Open Approach",Idiopathic aseptic necrosis of unspecified fibula
+732,Oba,22,"Reposition Right Upper Eyelid, Percutaneous Approach",Congenital spondylolisthesis
+733,Oyonder,12,"Supplement Left Atrium with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",War operations involving explosion of unspecified marine weapon
+734,Meezzy,97,"Revision of Tracheostomy Device in Trachea, Via Natural or Artificial Opening","Military operation involving nuclear radiation effects of nuclear weapon, civilian, initial encounter"
+735,Yozio,98,"Drainage of Left Thyroid Artery, Percutaneous Approach, Diagnostic","Pathological fracture in neoplastic disease, pelvis, initial encounter for fracture"
+736,Quinu,21,"Insertion of Infusion Device into Left Colic Artery, Percutaneous Approach",Contusion of left upper arm
+737,Dabshots,14,"Occlusion of Urethra, Percutaneous Endoscopic Approach","Crushing injury of abdomen, lower back, and pelvis, sequela"
+738,Chatterbridge,100,"Extirpation of Matter from Face Artery, Bifurcation, Percutaneous Approach","Corrosion of unspecified degree of multiple left fingers (nail), including thumb, subsequent encounter"
+739,Realpoint,97,Magnetic Resonance Imaging (MRI) of Spinal Cord,"Intentional self-harm by unspecified hot objects, initial encounter"
+740,Quaxo,31,"Release Upper Vein, Percutaneous Approach","Superficial foreign body of left back wall of thorax, subsequent encounter"
+741,Zoonder,91,"Replacement of Accessory Pancreatic Duct with Synthetic Substitute, Open Approach",Underdosing of mineralocorticoids and their antagonists
+742,Feedfish,54,"Revision of Infusion Device in Spinal Cord, Percutaneous Approach","Displaced segmental fracture of shaft of ulna, unspecified arm, subsequent encounter for open fracture type I or II with nonunion"
+743,Miboo,7,"Reposition Left Ankle Tendon, Open Approach","Calcification and ossification of muscles associated with burns, other site"
+744,Edgetag,87,"Bypass Abdominal Aorta to Left Femoral Artery, Percutaneous Endoscopic Approach",Idiopathic aseptic necrosis of pelvis and femur
+745,Buzzster,14,"Supplement Right Hip Bursa and Ligament with Nonautologous Tissue Substitute, Open Approach","Displaced fracture of medial malleolus of left tibia, subsequent encounter for open fracture type I or II with nonunion"
+746,Twitternation,49,"Insertion of Hybrid External Fixation Device into Left Humeral Shaft, Percutaneous Endoscopic Approach","Peripheral pterygium, stationary, right eye"
+747,Quimm,6,"Replacement of Left Hand Tendon with Autologous Tissue Substitute, Open Approach","Displaced other fracture of tuberosity of right calcaneus, initial encounter for open fracture"
+748,Babblestorm,61,"Bypass Superior Vena Cava to Right Pulmonary Vein with Synthetic Substitute, Open Approach","Unspecified occupant of pick-up truck or van injured in collision with railway train or railway vehicle in traffic accident, sequela"
+749,Voonder,26,"Supplement Right Lower Leg Tendon with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach","Other subluxation of unspecified shoulder joint, sequela"
+750,Quire,32,"Excision of Right Brachial Vein, Percutaneous Endoscopic Approach, Diagnostic","Nondisplaced spiral fracture of shaft of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+751,Aimbu,76,"Supplement Left Upper Leg Muscle with Synthetic Substitute, Percutaneous Endoscopic Approach","Displaced fracture of body of unspecified calcaneus, subsequent encounter for fracture with delayed healing"
+752,Voolith,16,"Supplement Right Lacrimal Bone with Nonautologous Tissue Substitute, Percutaneous Approach","Corrosion of second degree of trunk, unspecified site, sequela"
+753,Eidel,24,"Removal of Infusion Device from Great Vessel, External Approach","Other hypertrophic osteoarthropathy, right shoulder"
+754,Zoovu,24,"Drainage of Bladder Neck with Drainage Device, Via Natural or Artificial Opening",Unspecified lack of expected normal physiological development in childhood
+755,Vinte,6,"Excision of Cul-de-sac, Percutaneous Endoscopic Approach",Loose body in wrist
+756,Tagpad,54,"Drainage of Head, Open Approach, Diagnostic","Poisoning by other general anesthetics, intentional self-harm, initial encounter"
+757,Jamia,66,"Chiropractic Manipulation of Sacrum, Direct Visceral","Interstitial pulmonary disease, unspecified"
+758,Bluezoom,97,Packing of Right Foot using Packing Material,"Toxic effect of coral snake venom, assault"
+759,Gabvine,68,"Destruction of Abdominal Sympathetic Nerve, Open Approach",Dining room in reform school as the place of occurrence of the external cause
+760,Yata,82,"Supplement of Scalp Subcutaneous Tissue and Fascia with Synthetic Substitute, Open Approach","Sprain of left coracohumeral (ligament), initial encounter"
+761,Rhyloo,95,Computerized Tomography (CT Scan) of Left Femur using Low Osmolar Contrast,"Toxic effect of beryllium and its compounds, assault, sequela"
+762,Camido,88,"Occlusion of Pancreatic Duct, Percutaneous Approach",Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration
+763,Avavee,17,"Reposition Thoracic Vertebral Joint with Internal Fixation Device, External Approach","Displacement of implanted urinary sphincter, sequela"
+764,Voonte,86,"Removal of Infusion Device from Lower Intestinal Tract, Open Approach","Displaced osteochondral fracture of left patella, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+765,Feedmix,82,"Bypass Right Atrium to Left Pulmonary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach",Dyspareunia not due to a substance or known physiological condition
+766,Edgeify,37,"Removal of Drainage Device from Cervical Vertebral Disc, Percutaneous Endoscopic Approach","Pervasive developmental disorder, unspecified"
+767,Dynabox,95,"Release Right Breast, Via Natural or Artificial Opening",Cutaneous blastomycosis
+768,Feedfire,66,"Supplement Right Ankle Tendon with Autologous Tissue Substitute, Percutaneous Endoscopic Approach","Nondisplaced fracture of left radial styloid process, sequela"
+769,Oba,34,"Repair Right Palatine Bone, Open Approach",Unspecified injury of blood vessel of unspecified finger
+770,Devpoint,26,"Introduction of Monoclonal Antibody into Mouth and Pharynx, External Approach",Eosinophilic gastritis or gastroenteritis
+771,Rhyzio,47,"Supplement of Left Upper Arm Subcutaneous Tissue and Fascia with Autologous Tissue Substitute, Open Approach","Flexion deformity, unspecified shoulder"
+772,Kazio,2,"Removal of Autologous Tissue Substitute from Bladder, Via Natural or Artificial Opening","Unspecified injury of prostate, subsequent encounter"
+773,Flashspan,77,"Release Right Upper Arm Tendon, Percutaneous Approach","Unspecified fracture of unspecified calcaneus, sequela"
+774,Vimbo,64,"Removal of Autologous Tissue Substitute from Left Tibia, Open Approach","Pedestrian with other conveyance injured in collision with railway train or railway vehicle, unspecified whether traffic or nontraffic accident"
+775,Quinu,46,"Excision of Left Nipple, Via Natural or Artificial Opening Endoscopic, Diagnostic","Spontaneous rupture of extensor tendons, unspecified forearm"
+776,Wikizz,24,"Insertion of Artificial Sphincter into Bladder, Open Approach",Other trade areas as the place of occurrence of the external cause
+777,Trudeo,76,"Reposition Upper Vein, Open Approach","Corrosion of third degree of other site of trunk, sequela"
+778,Twimbo,99,"Division of Left Ulna, Percutaneous Endoscopic Approach","Poisoning by local astringents and local detergents, intentional self-harm, sequela"
+779,Skipfire,36,"Drainage of Right Toe Phalangeal Joint with Drainage Device, Percutaneous Endoscopic Approach","Puncture wound with foreign body of left buttock, sequela"
+780,Fatz,78,"Release Left Lower Extremity Lymphatic, Open Approach",Other abnormality of red blood cells
+781,Wordpedia,21,"Supplement Cecum with Nonautologous Tissue Substitute, Open Approach","Poisoning by other antacids and anti-gastric-secretion drugs, accidental (unintentional)"
+782,Skalith,46,"Occlusion of Middle Colic Artery, Percutaneous Approach",Acute nephritic syndrome with minor glomerular abnormality
+783,Eayo,48,"Revision of Drainage Device in Scrotum and Tunica Vaginalis, Open Approach","Daycare center childcare provider, perpetrator of maltreatment and neglect"
+784,Photojam,28,"Insertion of Spacer into Left Metacarpocarpal Joint, Open Approach","Nondisplaced oblique fracture of shaft of right radius, subsequent encounter for closed fracture with nonunion"
+785,Photospace,34,"Bypass Transverse Colon to Descending Colon with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach","Maternal care for prolapse of gravid uterus, third trimester"
+786,Quaxo,90,"Repair Right Lacrimal Bone, Percutaneous Approach","Corrosion of second degree of unspecified ear [any part, except ear drum], subsequent encounter"
+787,Jetpulse,18,"Drainage of Right Foot Tendon, Percutaneous Approach","Sprain of metacarpophalangeal joint of unspecified thumb, subsequent encounter"
+788,Skimia,92,"Excision of Left Neck Lymphatic, Percutaneous Approach, Diagnostic",Other general symptoms and signs
+789,Dabshots,89,"Supplement Left Tibia with Autologous Tissue Substitute, Open Approach","Puncture wound with foreign body of abdominal wall, periumbilic region with penetration into peritoneal cavity, subsequent encounter"
+790,Wordware,20,"Revision of Infusion Device in Right Pleural Cavity, Percutaneous Endoscopic Approach",Infections of kidney in pregnancy
+791,Oba,59,"Fusion of Right Toe Phalangeal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",Keratoconjunctivitis
+792,Tagfeed,80,"Reattachment of Left Lower Eyelid, External Approach",Unspecified physeal fracture of unspecified metatarsal
+793,Gevee,6,"Occlusion of Splenic Artery with Extraluminal Device, Open Approach","Chronic osteomyelitis with draining sinus, right femur"
+794,Blogpad,38,"Division of Peroneal Nerve, Open Approach","Laceration with foreign body, right lower leg"
+795,Viva,92,"Chiropractic Manipulation of Upper Extremities, Indirect Visceral","Primary osteoarthritis, unspecified shoulder"
+796,Dabvine,65,"Extirpation of Matter from Upper Lip, External Approach",Burn of second degree of right upper arm
+797,Tagtune,24,"Excision of Left External Carotid Artery, Open Approach, Diagnostic",Atherosclerosis of native arteries of the extremities
+798,Oyoloo,96,"Division of Nasal Turbinate, Percutaneous Approach",Acute bronchitis due to other specified organisms
+799,Wikivu,50,"Removal of Internal Fixation Device from Left Clavicle, Percutaneous Approach","Nondisplaced fracture of lower epiphysis (separation) of left femur, subsequent encounter for open fracture type I or II with malunion"
+800,Dabjam,62,"Removal of Infusion Device from Male Perineum, External Approach","Other contact with turkey, subsequent encounter"
+801,Jabbercube,97,"Chiropractic Manipulation of Lower Extremities, Direct Visceral","Displaced segmental fracture of shaft of humerus, unspecified arm, subsequent encounter for fracture with routine healing"
+802,Avavee,26,"Fusion of Occipital-cervical Joint with Autologous Tissue Substitute, Posterior Approach, Posterior Column, Percutaneous Endoscopic Approach","Pressure ulcer of right heel, stage 4"
+803,Jatri,49,"Dilation of Upper Artery, Bifurcation, Percutaneous Approach","Hemarthrosis, hip"
+804,Twitterbeat,75,"Bypass Right Internal Iliac Artery to Foot Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach","Transient retinal artery occlusion, right eye"
+805,Twitterbeat,99,"Introduction of Destructive Agent into Genitourinary Tract, Percutaneous Approach","Strain of muscle, fascia and tendon at neck level"
+806,Zoonoodle,81,"Bypass Jejunum to Anus with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic","Poisoning by antiallergic and antiemetic drugs, intentional self-harm, sequela"
+807,Cogilith,16,"Occlusion of Pelvis Lymphatic with Extraluminal Device, Open Approach",Hereditary persistence of fetal hemoglobin [HPFH]
+808,Eidel,50,"Dilation of Left Temporal Artery, Percutaneous Approach","Arthropathy following intestinal bypass, unspecified hip"
+809,Tekfly,59,"Supplement Right Nipple with Nonautologous Tissue Substitute, Percutaneous Approach","Puncture wound with foreign body of left ring finger without damage to nail, sequela"
+810,Viva,19,"Extirpation of Matter from Left Inferior Parathyroid Gland, Percutaneous Endoscopic Approach","Displaced fracture of pisiform, unspecified wrist, sequela"
+811,Youspan,34,"Drainage of Nasal Septum, Open Approach, Diagnostic","Rupture of synovium, unspecified toe(s)"
+812,Trudeo,17,"Revision of Autologous Tissue Substitute in Testis, Via Natural or Artificial Opening Endoscopic","Laceration of adductor muscle, fascia and tendon of right thigh, initial encounter"
+813,Agivu,31,"Excision of Right Fallopian Tube, Open Approach, Diagnostic","Unspecified injury of left quadriceps muscle, fascia and tendon, sequela"
+814,Dabjam,16,Stereotactic Gamma Beam Radiosurgery of Uterus,"External constriction, left lesser toe(s)"
+815,Avamm,70,"Repair Perineum Muscle, Percutaneous Endoscopic Approach",Critical illness myopathy
+816,Browsezoom,13,"Drainage of Right Hip Bursa and Ligament, Percutaneous Approach, Diagnostic",Pain in shoulder
+817,Tagtune,46,"Dilation of Left Hand Artery, Bifurcation, with Three Intraluminal Devices, Percutaneous Approach","Motorcycle passenger injured in collision with pedal cycle in nontraffic accident, subsequent encounter"
+818,Twimm,23,"Transfer Vagus Nerve to Trigeminal Nerve, Open Approach","Unspecified open wound of right wrist, subsequent encounter"
+819,Babbleblab,10,"Replacement of Left Ventricle with Autologous Tissue Substitute, Percutaneous Endoscopic Approach","Burn of second degree of multiple sites of left ankle and foot, initial encounter"
+820,Riffpath,100,"Release Perineum Bursa and Ligament, Open Approach","Fibrous dysplasia (monostotic), unspecified shoulder"
+821,Chatterbridge,12,Osteopathic Treatment of Upper Extremities using General Mobilization,"Cystocele, lateral"
+822,Mycat,40,"Occlusion of Hepatic Vein with Extraluminal Device, Percutaneous Endoscopic Approach","Unspecified pedal cyclist injured in collision with fixed or stationary object in nontraffic accident, initial encounter"
+823,Flashdog,56,"Extirpation of Matter from Ulnar Nerve, Percutaneous Endoscopic Approach",Burn of unspecified degree of unspecified elbow
+824,Dynabox,37,"Removal of Autologous Tissue Substitute from Left Rib, Open Approach",Cardiac complications of anesthesia during labor and delivery
+825,Twimbo,36,"Reposition Stomach, Via Natural or Artificial Opening Endoscopic",Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula
+826,Yata,37,"Dilation of Right Common Carotid Artery, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach","Poisoning by other drug primarily affecting the autonomic nervous system, assault, initial encounter"
+827,Livetube,45,Planar Nuclear Medicine Imaging of Bilateral Upper Extremity Veins using Technetium 99m (Tc-99m),"Displaced bimalleolar fracture of right lower leg, subsequent encounter for open fracture type I or II with routine healing"
+828,Demivee,9,"Dilation of Left Vertebral Artery, Percutaneous Approach","Other specified injury of other blood vessels at wrist and hand level of left arm, sequela"
+829,Trudoo,66,"Monitoring of Venous Pulse, Central, Percutaneous Approach","Unspecified disorder of synovium and tendon, right shoulder"
+830,Mybuzz,22,"Transfer Sciatic Nerve to Tibial Nerve, Percutaneous Endoscopic Approach","Other cause of strike by thrown, projected or falling object, subsequent encounter"
+831,Dabjam,1,"Removal of Synthetic Substitute from Left Metacarpocarpal Joint, Percutaneous Endoscopic Approach","Subluxation of T5/T6 thoracic vertebra, subsequent encounter"
+832,Cogidoo,93,"Supplement Right Breast with Synthetic Substitute, Percutaneous Approach",Contact with cat
+833,Oozz,76,"Revision of Drainage Device in Thymus, Open Approach","Complete lesion of L4 level of lumbar spinal cord, initial encounter"
+834,Dabfeed,70,"Extirpation of Matter from Pudendal Nerve, Open Approach","Nondisplaced fracture of navicular [scaphoid] of right foot, subsequent encounter for fracture with routine healing"
+835,Jayo,33,Wheelchair Mobility Assessment using Orthosis,"Maternal care for face, brow and chin presentation, fetus 2"
+836,Vinder,55,"Fluoroscopy of Ileal Loop, Ureters and Kidneys","Traumatic cerebral edema with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter"
+837,Mynte,59,"Detachment at Right Thumb, High, Open Approach","Unspecified open wound, left hip, subsequent encounter"
+838,Trupe,83,"Destruction of Left Upper Femur, Percutaneous Endoscopic Approach","Burn of respiratory tract, part unspecified, sequela"
+839,Twitternation,21,"Supplement Lower Gingiva with Autologous Tissue Substitute, External Approach",Crowding of fully erupted teeth
+840,Buzzshare,59,"Bypass Cecum to Cecum, Percutaneous Endoscopic Approach","Car driver injured in collision with two- or three-wheeled motor vehicle in traffic accident, subsequent encounter"
+841,Tavu,34,"Release Left Ulnar Artery, Percutaneous Approach",Laceration of Achilles tendon
+842,Meeveo,7,"Drainage of Cecum, Open Approach, Diagnostic",Factitious disorder with combined psychological and physical signs and symptoms
+843,Divape,30,"Inspection of Left Extraocular Muscle, External Approach",Nonrheumatic aortic (valve) insufficiency
+844,Feedbug,21,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen and Pelvis using Gallium 67 (Ga-67),"Carcinoma in situ of skin of right upper limb, including shoulder"
+845,Trupe,100,"Drainage of Nasal Bone, Open Approach, Diagnostic","Unspecified motorcycle rider injured in collision with railway train or railway vehicle in nontraffic accident, initial encounter"
+846,Livepath,54,"Drainage of Right Common Iliac Artery, Percutaneous Endoscopic Approach, Diagnostic","Wedge compression fracture of unspecified thoracic vertebra, initial encounter for closed fracture"
+847,Devshare,96,"Detachment at Left Foot, Complete 1st Ray, Open Approach","Salter-Harris Type IV physeal fracture of unspecified metatarsal, initial encounter for closed fracture"
+848,Innotype,4,"Revision of Drainage Device in Left Metatarsal-Phalangeal Joint, Percutaneous Endoscopic Approach","Sedative, hypnotic or anxiolytic-related abuse"
+849,Gigaclub,6,"Drainage of Left Sacroiliac Joint, Percutaneous Approach","Nondisplaced segmental fracture of shaft of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+850,Mudo,60,"Excision of Left Metatarsal, Percutaneous Approach","Person injured in unspecified nonmotor-vehicle accident, traffic"
+851,Voonte,84,"Change Drainage Device in Mesentery, External Approach","Unspecified superficial injury of other part of head, sequela"
+852,Photojam,7,Packing of Left Thumb using Packing Material,"Contact with sharp glass, undetermined intent, initial encounter"
+853,Fivebridge,6,"Extirpation of Matter from Right Metacarpophalangeal Joint, Percutaneous Approach",Laceration with foreign body of unspecified thumb without damage to nail
+854,Meedoo,9,"Revision of Bone Growth Stimulator in Lower Bone, External Approach","Person injured in collision between car and bus (traffic), subsequent encounter"
+855,Skipfire,88,"Excision of Intracranial Artery, Open Approach, Diagnostic",Nondisplaced unspecified condyle fracture of lower end of right femur
+856,Katz,88,"Dilation of Right Femoral Artery with Two Drug-eluting Intraluminal Devices, Open Approach","Traumatic rupture of left ulnocarpal (palmar) ligament, subsequent encounter"
+857,Thoughtstorm,65,"Release Left Anterior Tibial Artery, Open Approach",Other mechanical complication of unspecified internal joint prosthesis
+858,Tagopia,17,"Ventilation, Respiration and Circulation Assessment of Circulatory System - Whole Body using Aerobic Endurance and Conditioning Equipment","Displaced subtrochanteric fracture of left femur, subsequent encounter for closed fracture with routine healing"
+859,Aivee,81,"Reposition Left Wrist Joint with Internal Fixation Device, Percutaneous Endoscopic Approach","Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, right leg"
+860,Demimbu,16,"Supplement Heart with Synthetic Substitute, Percutaneous Approach","Nondisplaced fracture of proximal phalanx of left lesser toe(s), subsequent encounter for fracture with malunion"
+861,Omba,81,"Reattachment of Left Hand, Open Approach","Unspecified sprain of left shoulder joint, initial encounter"
+862,Zoomdog,68,"Bypass Right Ventricle to Right Pulmonary Artery with Zooplastic Tissue, Open Approach","Immersion foot, right foot, subsequent encounter"
+863,Katz,5,"Release Upper Tooth, All, Open Approach","Person boarding or alighting from bus injured in collision with other nonmotor vehicle, subsequent encounter"
+864,Flipbug,24,"Dilation of Right Ulnar Artery with Intraluminal Device, Open Approach","Displaced fracture of greater trochanter of unspecified femur, subsequent encounter for open fracture type I or II with delayed healing"
+865,Yozio,98,Computerized Tomography (CT Scan) of Thoracic Spine using High Osmolar Contrast,"Partial traumatic amputation of unspecified great toe, subsequent encounter"
+866,Quinu,81,"Restriction of Abdominal Aorta, Bifurcation, Percutaneous Endoscopic Approach",Nephrotic syndrome with focal and segmental glomerular lesions
+867,Meeveo,74,"Revision of Synthetic Substitute in Lower Artery, Percutaneous Approach","Minor laceration of body of pancreas, sequela"
+868,Oba,66,"Restriction of Splenic Vein with Extraluminal Device, Percutaneous Approach",Keratoconjunctivitis
+869,Feedfish,29,"Transfusion of Autologous Hematopoietic Stem Cells into Peripheral Artery, Open Approach",Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting left non-dominant side
+870,Jayo,95,"Revision of Synthetic Substitute in Left Lower Extremity, Percutaneous Endoscopic Approach",Traumatic cerebral edema with loss of consciousness of 1 hour to 5 hours 59 minutes
+871,Mymm,39,"Release Right Humeral Shaft, Percutaneous Endoscopic Approach",Other congenital malformations of uterus and cervix
+872,Zooveo,50,"Revision of Spacer in Right Toe Phalangeal Joint, Percutaneous Approach","Poisoning by other drugs acting on muscles, accidental (unintentional), initial encounter"
+873,Trudeo,80,"Excision of Right Tibia, Percutaneous Endoscopic Approach, Diagnostic","Complete traumatic amputation of right forearm, level unspecified, sequela"
+874,Omba,71,"Occlusion of Left Hand Artery with Extraluminal Device, Percutaneous Approach","Underdosing of otorhinolaryngological drugs and preparations, sequela"
+875,Yotz,39,"Supplement Inferior Mesenteric Artery with Synthetic Substitute, Percutaneous Approach","Other specified injury of unspecified blood vessel at hip and thigh level, unspecified leg, subsequent encounter"
+876,Livetube,31,"Excision of Ampulla of Vater, Percutaneous Approach, Diagnostic",Retarded ejaculation
+877,Miboo,15,Computerized Tomography (CT Scan) of Left Hand using Other Contrast,Subluxation of metatarsophalangeal joint of right lesser toe(s)
+878,Topicshots,76,Beam Radiation of Pancreas using Electrons,"Unspecified trochanteric fracture of right femur, sequela"
+879,Quatz,85,"Supplement Right Ventricle with Autologous Tissue Substitute, Percutaneous Approach","Passenger in heavy transport vehicle injured in noncollision transport accident in nontraffic accident, subsequent encounter"
+880,Photobean,35,"Transfusion of Autologous Fresh Plasma into Peripheral Artery, Open Approach","Hydroxyapatite deposition disease, right wrist"
+881,Kwideo,77,"Fragmentation in Large Intestine, Via Natural or Artificial Opening Endoscopic","Corrosion of third degree of unspecified ear [any part, except ear drum], initial encounter"
+882,Gigaclub,50,"Revision of Drainage Device in Trachea, External Approach","Burn of second degree of right palm, initial encounter"
+883,Feedfish,30,"Revision of Monitoring Device in Kidney, Via Natural or Artificial Opening Endoscopic",Pain in right wrist
+884,Yodel,88,"Bypass Left Common Iliac Artery to Bilateral Femoral Arteries with Synthetic Substitute, Open Approach","Corrosion of third degree of multiple sites of right shoulder and upper limb, except wrist and hand, sequela"
+885,Jabbersphere,37,"Supplement Right Extraocular Muscle with Nonautologous Tissue Substitute, Percutaneous Approach","Unspecified fracture of unspecified ischium, subsequent encounter for fracture with delayed healing"
+886,Dazzlesphere,79,"Fluoroscopy of Right Common Carotid Artery using Other Contrast, Laser Intraoperative",Stressful work schedule
+887,Mudo,74,"Excision of Left External Carotid Artery, Percutaneous Approach","Other fish poisoning, assault, initial encounter"
+888,Bubblemix,86,"Extirpation of Matter from Left Clavicle, Open Approach","Puncture wound without foreign body of other part of head, subsequent encounter"
+889,Riffpath,22,"Extirpation of Matter from Brain, Open Approach",Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of ankle
+890,Twitterbridge,13,Removal of Pressure Dressing on Left Upper Extremity,"Nondisplaced segmental fracture of shaft of unspecified fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+891,Edgeblab,9,"Insertion of Radioactive Element into Left Elbow Region, Open Approach","Benign neoplasm of bone and articular cartilage, unspecified"
+892,Aibox,58,"Dilation of Left Internal Mammary Artery, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Open Approach",Eczema herpeticum
+893,Blognation,79,"Drainage of Bilateral Ovaries with Drainage Device, Percutaneous Endoscopic Approach",Periostitis of bilateral orbits
+894,Cogibox,44,"Excision of Left Upper Leg, Open Approach","Toxic effect of smoke, intentional self-harm"
+895,Thoughtstorm,41,"Replacement of Gastric Vein with Autologous Tissue Substitute, Open Approach","Other specified injury of unspecified renal vein, subsequent encounter"
+896,Camido,93,"Supplement Right Shoulder Tendon with Synthetic Substitute, Percutaneous Endoscopic Approach",Venous insufficiency (chronic) (peripheral)
+897,Trudeo,29,"Removal of Internal Fixation Device from Left Acetabulum, Percutaneous Approach","Minor laceration of liver, sequela"
+898,Skipfire,78,"Repair Right Ankle Region, Percutaneous Approach",Non-pressure chronic ulcer of other part of unspecified lower leg with unspecified severity
+899,Yata,77,"Supplement Left Femoral Shaft with Autologous Tissue Substitute, Open Approach","Intermittent hydrarthrosis, left wrist"
+900,Youspan,78,"Removal of Artificial Sphincter from Anus, Percutaneous Endoscopic Approach","Crushing injury of left lower leg, sequela"
+901,Kamba,74,Tomographic (Tomo) Nuclear Medicine Imaging of Pelvic Region using Iodine 131 (I-131),Stenosis of right lacrimal punctum
+902,Gabcube,41,"Excision of Cecum, Via Natural or Artificial Opening, Diagnostic","Jumping or diving into unspecified water causing other injury, subsequent encounter"
+903,Babbleblab,86,"Dilation of Coronary Artery, Four or More Arteries, Bifurcation, Percutaneous Approach","Military operations involving unarmed hand to hand combat, military personnel, sequela"
+904,Katz,87,"Dilation of Superior Mesenteric Artery with Three Intraluminal Devices, Percutaneous Endoscopic Approach",Corrosions involving 80-89% of body surface with 10-19% third degree corrosion
+905,Jamia,66,"Supplement Pancreatic Duct with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",Burn with resulting rupture and destruction of eyeball
+906,Youbridge,42,"Replacement of Right Knee Joint with Unicondylar Synthetic Substitute, Cemented, Open Approach","Poisoning by digestants, undetermined, sequela"
+907,Kimia,30,"Dilation of Right Common Carotid Artery, Bifurcation, with Two Drug-eluting Intraluminal Devices, Open Approach","Bipolar disorder, current episode manic without psychotic features, mild"
+908,Skimia,63,"Replacement of Esophageal Vein with Synthetic Substitute, Percutaneous Endoscopic Approach","Laceration of rectum, subsequent encounter"
+909,Skibox,81,"Resection of Right Iris, Percutaneous Approach","Adverse effect of stimulant laxatives, sequela"
+910,Twitternation,31,"Revision of Synthetic Substitute in Right Scapula, Open Approach","Other physeal fracture of unspecified calcaneus, initial encounter for open fracture"
+911,Eayo,73,"Insertion of Rigid Plate Internal Fixation Device into Sternum, Percutaneous Approach","Poisoning by anticoagulants, accidental (unintentional), subsequent encounter"
+912,Jabbersphere,25,"Release Right Tibia, Percutaneous Approach",Obstruction due to foreign body accidentally left in body following procedure
+913,Skibox,90,Beam Radiation of Larynx using Neutron Capture,"Gastroduodenitis, unspecified, with bleeding"
+914,Yata,14,"Transfer Right Foot Subcutaneous Tissue and Fascia with Skin and Subcutaneous Tissue, Percutaneous Approach","Quadruplet liveborn infant, delivered vaginally"
+915,Innojam,48,"Excision of Right Shoulder Tendon, Percutaneous Endoscopic Approach","Nondisplaced oblique fracture of shaft of unspecified femur, initial encounter for open fracture type I or II"
+916,Mynte,47,"Removal of Infusion Device from Left Sternoclavicular Joint, Percutaneous Approach","Major osseous defect, unspecified hand"
+917,Kwideo,7,"Destruction of Portal Vein, Percutaneous Approach","Stress fracture, left humerus, subsequent encounter for fracture with delayed healing"
+918,Ainyx,89,"Excision of Right Trunk Muscle, Percutaneous Approach, Diagnostic",Stressful work schedule
+919,Kayveo,37,"Muscle Performance Assessment of Integumentary System - Upper Back / Upper Extremity using Assistive, Adaptive, Supportive or Protective Equipment","Displaced oblique fracture of shaft of unspecified ulna, subsequent encounter for open fracture type I or II with routine healing"
+920,Thoughtstorm,57,"Occlusion of Left Subclavian Vein with Extraluminal Device, Open Approach",Crushing injury of ankle and foot
+921,Dynava,87,"Chiropractic Manipulation of Thoracic Region, Long and Short Lever Specific Contact","Other anterior subluxation of right hip, sequela"
+922,Mydeo,29,"Insertion of Spacer into Left Acromioclavicular Joint, Percutaneous Endoscopic Approach",Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery
+923,Buzzster,56,"Drainage of Right Cephalic Vein, Percutaneous Endoscopic Approach","Unspecified fracture of shaft of unspecified fibula, subsequent encounter for open fracture type I or II with delayed healing"
+924,Oyoyo,100,"Destruction of Bilateral Seminal Vesicles, Percutaneous Endoscopic Approach","Retinopathy of prematurity, unspecified, unspecified eye"
+925,Thoughtsphere,92,"Fragmentation in Right Lower Lobe Bronchus, Open Approach",Driver of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle in traffic accident
+926,Kwimbee,47,"Supplement Left Orbit with Synthetic Substitute, Percutaneous Endoscopic Approach","Other superficial bite of hip, right hip, sequela"
+927,Gigazoom,32,Computerized Tomography (CT Scan) of Bilateral Eyes using High Osmolar Contrast,"Abrasion of left thumb, initial encounter"
+928,Zoonder,71,"Insertion of Infusion Device into Right Lesser Saphenous Vein, Percutaneous Approach",Garden or yard of other specified residential institution as the place of occurrence of the external cause
+929,Thoughtworks,33,"Drainage of Left Sublingual Gland with Drainage Device, Open Approach","Monteggia's fracture of left ulna, sequela"
+930,Layo,47,"Supplement Left Lower Extremity Lymphatic with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",Crohn's disease of large intestine with unspecified complications
+931,Twitterbeat,22,"Dilation of Coronary Artery, Four or More Arteries with Three Drug-eluting Intraluminal Devices, Open Approach","Infections following infusion, transfusion and therapeutic injection"
+932,Twinder,34,"Reposition Right Fibula with Internal Fixation Device, Open Approach","Maternal care for other abnormalities of gravid uterus, first trimester"
+933,Oyondu,62,"Dilation of Right External Iliac Artery, Bifurcation, with Four or More Intraluminal Devices, Open Approach","Protozoal intestinal disease, unspecified"
+934,Aimbu,84,"Excision of Right Upper Arm Muscle, Percutaneous Endoscopic Approach, Diagnostic",Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting right dominant side
+935,Edgewire,2,"Supplement Gastric Vein with Synthetic Substitute, Percutaneous Approach","Open bite of left wrist, initial encounter"
+936,Photolist,28,"Excision of Right Lower Arm and Wrist Muscle, Percutaneous Approach, Diagnostic","Adverse effect of glucocorticoids and synthetic analogues, subsequent encounter"
+937,Zooxo,37,"Transfer Tibial Nerve to Femoral Nerve, Open Approach","External constriction of unspecified part of neck, subsequent encounter"
+938,Oyondu,76,"Removal of External Fixation Device from Right Humeral Shaft, External Approach","Other traumatic displaced spondylolisthesis of fourth cervical vertebra, subsequent encounter for fracture with nonunion"
+939,Trudeo,43,"Dilation of Left Anterior Tibial Artery, Bifurcation, with Two Intraluminal Devices, Percutaneous Endoscopic Approach","Posterior dislocation of unspecified radial head, initial encounter"
+940,Youopia,89,Wound Management Treatment of Musculoskeletal System - Lower Back / Lower Extremity using Electrotherapeutic Equipment,"Pathological fracture, right ulna, subsequent encounter for fracture with nonunion"
+941,Eidel,88,"Tendons, Division","Toxic effect of carbon monoxide from incomplete combustion of other domestic fuels, accidental (unintentional), subsequent encounter"
+942,Babblestorm,86,"Supplement Right External Iliac Vein with Synthetic Substitute, Open Approach",Disruptive mood dysregulation disorder
+943,Edgeblab,43,"Fusion of Thoracic Vertebral Joint with Autologous Tissue Substitute, Posterior Approach, Anterior Column, Percutaneous Endoscopic Approach",Failed attempted termination of pregnancy with other and unspecified complications
+944,Photofeed,93,"Reattachment of Right Thumb, Open Approach","Other osteomyelitis, ankle and foot"
+945,Wikido,29,"Removal of Autologous Tissue Substitute from Upper Vein, Percutaneous Approach","Poisoning by insulin and oral hypoglycemic [antidiabetic] drugs, assault, initial encounter"
+946,Flashpoint,17,"Reposition Left Shoulder Muscle, Percutaneous Endoscopic Approach","Air embolism (traumatic), initial encounter"
+947,Zoombox,56,"Bypass Superior Mesenteric Vein to Lower Vein with Nonautologous Tissue Substitute, Open Approach","Other superficial bite of penis, sequela"
+948,Dabtype,12,"Fragmentation in Right Parotid Duct, Via Natural or Artificial Opening","Other injury of flexor muscle, fascia and tendon of left little finger at forearm level, initial encounter"
+949,Jabberstorm,31,"Bypass Right Common Iliac Artery to Mesenteric Artery with Autologous Arterial Tissue, Open Approach",Blood donor
+950,Innojam,55,"Excision of Right Upper Leg Tendon, Percutaneous Approach, Diagnostic","Other specified disorders of synovium and tendon, hip"
+951,Realcube,60,"Excision of Left Brachial Artery, Open Approach",Unspecified abnormal findings in urine
+952,Yadel,15,"Revision of Nonautologous Tissue Substitute in Right Knee Joint, Percutaneous Approach","Pedestrian on skateboard injured in collision with two- or three-wheeled motor vehicle, unspecified whether traffic or nontraffic accident, sequela"
+953,Quinu,97,"Reposition Left Hand Bursa and Ligament, Percutaneous Endoscopic Approach",Retained (nonmagnetic) (old) foreign body in vitreous body
+954,Eare,58,"Revision of Radioactive Element in Gastrointestinal Tract, Via Natural or Artificial Opening",Other nondisplaced fracture of third cervical vertebra
+955,Wikizz,79,"Repair Sternum, Open Approach","Laceration of unspecified blood vessel at shoulder and upper arm level, left arm, sequela"
+956,Wikido,48,"Removal of Vascular Access Device from Lower Extremity Subcutaneous Tissue and Fascia, Percutaneous Approach","Multiple fractures of ribs, bilateral, initial encounter for closed fracture"
+957,Brainverse,77,"Bypass Cecum to Transverse Colon with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic","Disorders of muscle in diseases classified elsewhere, hand"
+958,Tavu,80,"Excision of Esophagus, Open Approach","Other fracture of lower end of unspecified ulna, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+959,Gabspot,93,"Restriction of Left Renal Artery, Open Approach",Other secondary hypertension
+960,Tagpad,71,"Excision of Thoracic Aorta, Descending, Percutaneous Endoscopic Approach, Diagnostic","Pressure ulcer of right buttock, stage 4"
+961,Jaxbean,30,"Insertion of Single Channel Cochlear Prosthesis into Left Inner Ear, Open Approach",Puncture wound without foreign body of shoulder
+962,Kanoodle,18,"Restriction of Abdominal Aorta, Bifurcation, with Intraluminal Device, Percutaneous Endoscopic Approach","Nondisplaced fracture of distal phalanx of right ring finger, subsequent encounter for fracture with delayed healing"
+963,Dabvine,100,"Dilation of Left Common Iliac Artery with Two Drug-eluting Intraluminal Devices, Percutaneous Approach",Monoplegia of lower limb following other cerebrovascular disease affecting left dominant side
+964,Buzzdog,88,Plain Radiography of Left Foot/Toe Joint using Other Contrast,"Nondisplaced oblique fracture of shaft of unspecified fibula, subsequent encounter for closed fracture with nonunion"
+965,Riffwire,33,"Insertion of Intramedullary Internal Fixation Device into Right Radius, Percutaneous Approach","Unspecified traumatic displaced spondylolisthesis of sixth cervical vertebra, subsequent encounter for fracture with nonunion"
+966,Wikibox,69,Tomographic (Tomo) Nuclear Medicine Imaging of Pelvis using Other Radionuclide,"Other generalized epilepsy and epileptic syndromes, intractable, with status epilepticus"
+967,Cogilith,59,"Occlusion of Right Hypogastric Vein with Extraluminal Device, Percutaneous Endoscopic Approach","Poisoning by caffeine, accidental (unintentional), sequela"
+968,Twitterwire,73,"Drainage of Small Intestine with Drainage Device, Via Natural or Artificial Opening Endoscopic","Injury of musculocutaneous nerve, right arm, subsequent encounter"
+969,Twitterbridge,17,Plain Radiography of Left Lower Extremity Arteries using Other Contrast,"Unspecified Zone I fracture of sacrum, subsequent encounter for fracture with delayed healing"
+970,Fadeo,12,"Alteration of Chest Wall with Nonautologous Tissue Substitute, Percutaneous Approach",Polyp of vocal cord and larynx
+971,Topicshots,20,"Removal of Infusion Device from Ovary, Percutaneous Approach","Motorcycle passenger injured in collision with other motor vehicles in nontraffic accident, initial encounter"
+972,Oyondu,60,"Insertion of Limb Lengthening External Fixation Device into Left Tibia, Percutaneous Endoscopic Approach",Damage to pelvic organs following (induced) termination of pregnancy
+973,Einti,94,"Destruction of Left Maxilla, Percutaneous Endoscopic Approach","Conjunctivochalasis, bilateral"
+974,Buzzshare,83,"Reattachment of Right Lower Extremity, Open Approach",Non-pressure chronic ulcer of heel and midfoot
+975,Ailane,74,"Revision of Drainage Device in Right Metatarsal-Tarsal Joint, External Approach","Military operations involving explosion of marine mine, civilian"
+976,Photolist,67,"Repair Hypoglossal Nerve, Percutaneous Endoscopic Approach","Complex tear of medial meniscus, current injury, right knee, initial encounter"
+977,Topicshots,67,"Alteration of Right Knee Region with Nonautologous Tissue Substitute, Percutaneous Approach",Other fracture of shaft of unspecified femur
+978,Rhyzio,61,"Fusion of Lumbosacral Joint with Nonautologous Tissue Substitute, Anterior Approach, Anterior Column, Open Approach","Other fracture of shaft of unspecified femur, sequela"
+979,Zoomdog,76,"Transfusion of Autologous Antihemophilic Factors into Central Vein, Percutaneous Approach","Stenosis of coronary artery stent, subsequent encounter"
+980,Dynazzy,45,"Mouth and Throat, Insertion","Poisoning by, adverse effect of and underdosing of androgens and anabolic congeners"
+981,Blogpad,57,"Insertion of Contractility Modulation Device into Chest Subcutaneous Tissue and Fascia, Open Approach","Legal intervention involving injury by machine gun, suspect injured, initial encounter"
+982,Tagfeed,62,"Occlusion of Lower Vein with Intraluminal Device, Open Approach","Other balloon accident injuring occupant, sequela"
+983,Oyoloo,46,"Restriction of Left Popliteal Artery, Percutaneous Endoscopic Approach","Nondisplaced segmental fracture of shaft of left fibula, subsequent encounter for open fracture type I or II with malunion"
+984,Trilith,28,"Supplement Left Wrist Region with Nonautologous Tissue Substitute, Open Approach","Exposure to other natural radiation, subsequent encounter"
+985,Jaloo,71,"Resection of Left Clavicle, Open Approach","Fracture of unspecified part of body of left mandible, subsequent encounter for fracture with nonunion"
+986,Divanoodle,53,"Imaging, Axial Skeleton, Except Skull and Facial Bones, Ultrasonography",Toxic effect of pesticides
+987,Jazzy,21,"Reposition Left Finger Phalanx, Open Approach","Partial traumatic amputation of penis, sequela"
+988,Devcast,46,"Occlusion of Splenic Artery with Intraluminal Device, Percutaneous Approach","Other mechanical complication of implanted electronic neurostimulator, generator, sequela"
+989,Youspan,27,"Extirpation of Matter from Left Hand Vein, Percutaneous Approach","Contact with hot drinks, sequela"
+990,Thoughtstorm,18,"Drainage of Right Sphenoid Bone, Percutaneous Approach, Diagnostic","Nondisplaced comminuted fracture of shaft of right fibula, subsequent encounter for closed fracture with malunion"
+991,Cogilith,58,"Drainage of Sacrum, Open Approach","Nondisplaced segmental fracture of shaft of radius, right arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+992,Topiczoom,12,"Subcutaneous Tissue and Fascia, Destruction","Open bite of anus, sequela"
+993,Avamba,8,"Revision of External Fixation Device in Left Hip Joint, External Approach","Displaced fracture of medial condyle of unspecified humerus, subsequent encounter for fracture with malunion"
+994,Centimia,12,"Destruction of Thoracic Aorta, Ascending/Arch, Percutaneous Approach","Unspecified fracture of head of left femur, initial encounter for closed fracture"
+995,Dynabox,82,"Planar Nuclear Medicine Imaging of Skin, Subcutaneous Tissue and Breast using Other Radionuclide","Insect bite (nonvenomous) of unspecified forearm, initial encounter"
+996,Skajo,34,"Revision of Infusion Device in Right Temporomandibular Joint, Percutaneous Endoscopic Approach",Subluxation and dislocation of radial head
+997,Midel,91,"Reposition Right Hip Joint with External Fixation Device, Percutaneous Approach","Burn of unspecified degree of right hand, unspecified site, sequela"
+998,Kwilith,91,"Resection of Right Lower Arm and Wrist Tendon, Percutaneous Endoscopic Approach",Complications of attempted introduction of fertilized ovum following in vitro fertilization
+999,Edgewire,61,"Destruction of Left Lung, Via Natural or Artificial Opening","Poisoning by macrolides, accidental (unintentional), sequela"
+1000,Kamba,26,"Fusion of 2 to 7 Thoracic Vertebral Joints with Interbody Fusion Device, Anterior Approach, Anterior Column, Open Approach",Dislocation of metacarpophalangeal joint of right thumb

@@ -1,0 +1,11 @@
+# pandas
+# sqlalchemy
+# psycopg2-binary
+# Django>=3.2
+Django>=4.0,<5.0
+pandas
+sqlalchemy
+psycopg2-binary
+requests>=2.31.0
+python-dotenv
+djangorestframework
