@@ -1,13 +1,13 @@
 # docker-compose.yml
 # version: '3.8'
 services:
-  ollama:
-    image: ollama/ollama
-    container_name: ollama_container
-    ports:
-      - "11434:11434"  # Ollama API exposed here
-    volumes:
-      - ollama:/root/.ollama
+  # ollama:
+  #   image: ollama/ollama
+  #   container_name: ollama_container
+  #   ports:
+  #     - "11434:11434"  # Ollama API exposed here
+  #   volumes:
+  #     - ollama:/root/.ollama
 
   postgres:
     image: postgres:latest
@@ -46,76 +46,13 @@ services:
       - POSTGRES_PASSWORD=fahimah123
       - POSTGRES_DB=llm_db
       - POSTGRES_HOST=postgres
-      - OLLAMA_HOST=http://ollama_container:11434  # Ollama's container name
+      # - OLLAMA_HOST=http://ollama_container:11434  # Ollama's container name
     ports:
       - "8000:8000"
     depends_on:
       - postgres
-      - ollama
+      # - ollama
 
 volumes:
   ollama:
   postgres_data:
-
-# version: '3.8'
-# services:
-#   ollama:
-#     image: ollama/ollama
-#     container_name: ollama_container
-#     ports:
-#       - "11434:11434"
-#     volumes:
-#       - ollama:/root/.ollama
-#   postgres:
-#     image: postgres:latest
-#     container_name: ollama_db
-#     environment:
-#       POSTGRES_USER: fahimah
-#       POSTGRES_PASSWORD: fahimah123
-#       POSTGRES_DB: llm_db
-#     ports:
-#       - "5432:5432"
-#     volumes:
-#       - postgres_data:/var/lib/postgresql/data
-#       - ./data:/data
-#   pgadmin:
-#     image: dpage/pgadmin4:latest
-#     container_name: pgadmin
-#     environment:
-#       PGADMIN_DEFAULT_EMAIL: admin@admin.com
-#       PGADMIN_DEFAULT_PASSWORD: admin123
-#     ports:
-#       - "5050:80"
-#     depends_on:
-#       - postgres
-#   django:
-#     build: .  # This will use your Dockerfile
-#     container_name: django_app
-#     volumes:
-#       - .:/app
-#       - ./data:/data
-#     working_dir: /app
-#     environment:
-#       - POSTGRES_USER=fahimah
-#       - POSTGRES_PASSWORD=fahimah123
-#       - POSTGRES_DB=llm_db
-#       - POSTGRES_HOST=postgres
-#       - OLLAMA_HOST=http://ollama_container:11434
-#     ports:
-#       - "8000:8000"
-#     depends_on:
-#       - postgres
-#       - ollama
-#     # entrypoint: ["bash", "-c"]
-#     entrypoint: []
-
-# volumes:
-#   ollama:
-#   postgres_data:
-  
-  
-  
-
-
-
-
