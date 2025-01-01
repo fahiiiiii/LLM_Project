@@ -1,5 +1,28 @@
-db.sqlite3
+# Python bytecode
 *.pyc
 __pycache__/
+
+# Environment variables
 .env
-/migrations
+
+# SQLite database
+db.sqlite3
+
+# Ignore migrations except Python migration files
+*/migrations/*.pyc
+*/migrations/*.py~
+*/migrations/__pycache__/
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+
+# Logs
+*.log
+
+# /migrations
+# db.sqlite3
+# *.pyc
+# __pycache__/
+# .env
