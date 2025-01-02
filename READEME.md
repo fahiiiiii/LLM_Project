@@ -22,8 +22,8 @@ This project is a Django-based CLI application that uses Large Language Models (
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
-cd [repository-name]
+git clone https://github.com/fahiiiiii/LLM_Project.git
+cd LLM_Project
 ```
 
 2. Build and start the Docker containers:
