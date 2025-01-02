@@ -53,6 +53,9 @@ Note: You can modify the number of records by changing the parameter in `hotel_d
 4. Upload the generated data:
 ```bash
 python db_uploader.py
+python manage.py makemigrations or python manage.py makemigrations LLM_app
+python manage.py migrate or python manage.py migrate LLM_app
+
 ```
 
 ## Running the Commands
@@ -142,7 +145,7 @@ If you encounter any issues:
 
 1. Create a virtual environment:
 ```bash
-python -m venv llmenv
+python -m venv llmenv or python3 -m venv llmenv 
 ```
 
 2. Activate the virtual environment:
