@@ -334,3 +334,57 @@ def test_api_error_exceeds_retries(mock_gemini_model, mock_env, mock_db_data):
         assert "Failed to process hotel 5678 after 3 attempts" in out.getvalue()
         assert "Failed to process hotel 9101 after 3 attempts" in out.getvalue()
         assert "Failed to process hotel 1121 after 3 attempts" in out.getvalue()
+@pytest.mark.django_db
+def test_empty_database(mock_gemini_model, mock_env):
+    out = StringIO()
+    call_command('rewrite_properties', stdout=out)
+    assert "Successfully updated hotel" not in out.getvalue()
+    assert "No data to process" in out.getvalue()  # Update the command to handle this message.
+
+@pytest.mark.django_db
+def test_invalid_api_key(mock_env, mock_db_data):
+    with patch.dict(os.environ, {"GOOGLE_API_KEY": "invalid_api_key"}):
+        out = StringIO()
+        call_command('rewrite_properties', stdout=out)
+        assert "Google API key is invalid or failed during initialization" in out.getvalue()
+
+@pytest.mark.django_db
+def test_generate_content_with_empty_response(mock_gemini_model, mock_env, mock_db_data):
+    mock_gemini_model.generate_content.return_value = MagicMock(text="")
+    with patch('google.generativeai.GenerativeModel', return_value=mock_gemini_model):
+        out = StringIO()
+        call_command('rewrite_properties', stdout=out)
+        assert "Generated content is empty" in out.getvalue()
+
+@pytest.mark.django_db
+def test_generate_content_invalid_regex(mock_gemini_model, mock_env, mock_db_data):
+    mock_gemini_model.generate_content.return_value = MagicMock(
+        text="Invalid: 12345678-1234-1234-1234-123456789012"
+    )
+    with patch('google.generativeai.GenerativeModel', return_value=mock_gemini_model):
+        out = StringIO()
+        call_command('rewrite_properties', stdout=out)
+        assert "Generated content contains an ID or debug-like text." in out.getvalue()
+
+@pytest.mark.django_db
+def test_transaction_rollback_on_error(mock_gemini_model, mock_env, mock_db_data):
+    mock_gemini_model.generate_content.side_effect = [
+        MagicMock(text="Mocked valid title"),
+        Exception("Test exception during description generation"),
+    ]
+    with patch('google.generativeai.GenerativeModel', return_value=mock_gemini_model):
+        with connection.cursor() as cursor:
+            cursor.execute('SELECT COUNT(*) FROM MOCK_DATA WHERE property_title = %s', ["Mocked valid title"])
+            assert cursor.fetchone()[0] == 0  # Ensure no partial updates occurred.
+
+@pytest.mark.django_db
+def test_price_range_conversion(mock_env, mock_db_data):
+    command = rewrite_properties.Command()
+    test_cases = [
+        (50, "Budget-friendly"),
+        (150, "Moderate"),
+        (350, "Upscale"),
+        (500, "Luxury"),
+    ]
+    for price, expected_range in test_cases:
+        assert command.get_price_range(price) == expected_range  # Implement `get_price_range` helper.
