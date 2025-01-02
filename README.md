@@ -135,7 +135,6 @@ If you encounter any issues:
 2. View Docker logs: `docker-compose logs`
 3. Ensure database connections are properly configured
 4. Verify environment variables are set correctly
-# Hotel Property Management System with LLM Integration
 
 
 
